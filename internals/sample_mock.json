@@ -1,0 +1,613 @@
+{
+  "show me some lip essentials for valentine's day": {
+    "text": "Here are the lip essentials you're looking for",
+    "list":[
+      {
+        "id": "a3e310b5-1659-4e68-a633-ca332056752d",
+        "genericChoiceId": "11199510_946T",
+        "url": "/us/vs/beauty-catalog/5000008983?brand=&collectionId=f4fd782a-fe28-42c1-b4c4-a3465dcd5ed0&filter=subclass%3ALip%20Balm%2Csubclass%3ALip%20Gloss%2Csubclass%3ALip%20Scrub%2Csubclass%3ALip%20Treatment&limit=180&orderBy=REC&priceType=regular&productId=a3e310b5-1659-4e68-a633-ca332056752d&size1=One%20Size&size2=&stackId=278692ae-fedb-4bd7-b89b-1ddd7b33c2ad&genericId=11199510&choice=946T",
+        "family": "Lip",
+        "name": "Flavored Lip Gloss",
+        "rating": 4.71,
+        "totalReviewCount": 755,
+        "productImages": [
+          "tif/8b/fb/8bfb0dc8e1f944219a40ca9de6038968/11199510946T_OF_F"
+        ],
+        "swatchCount": 11,
+        "price": "$9.95",
+        "altPrices": null,
+        "collectionShortDescription": "Candy Baby Flavored Lip Gloss",
+        "displayGenericDescription": false,
+        "masterStyleId": "5000008983"
+      },
+      {
+        "id": "09045efe-bc74-40e5-9ac1-08d5e53c750d",
+        "genericChoiceId": "11201543_053G",
+        "url": "/us/vs/beauty-catalog/5000008919?brand=&collectionId=f4fd782a-fe28-42c1-b4c4-a3465dcd5ed0&filter=subclass%3ALip%20Balm%2Csubclass%3ALip%20Gloss%2Csubclass%3ALip%20Scrub%2Csubclass%3ALip%20Treatment&limit=180&orderBy=REC&priceType=regular&productId=09045efe-bc74-40e5-9ac1-08d5e53c750d&size1=One%20Size&size2=&stackId=278692ae-fedb-4bd7-b89b-1ddd7b33c2ad&genericId=11201543&choice=053G",
+        "family": "Lip",
+        "name": "Color Shine Lip Gloss",
+        "rating": 4.66,
+        "totalReviewCount": 154,
+        "productImages": [
+          "tif/71/16/7116fc048e634deab71805e901d1a60f/11201543053G_OF_F"
+        ],
+        "swatchCount": 7,
+        "swatchLabel": "",
+        "price": "$14.95",
+        "collectionShortDescription": "New! Glowing Color Shine Lip Gloss",
+        "displayGenericDescription": false,
+        "masterStyleId": "5000008919"
+      },
+      {
+        "id": "d0f38480-c01c-4534-9da7-5b025be0173a",
+        "genericChoiceId": "11201542_964Z",
+        "url": "/us/vs/beauty-catalog/1120154200?brand=&collectionId=f4fd782a-fe28-42c1-b4c4-a3465dcd5ed0&filter=subclass%3ALip%20Balm%2Csubclass%3ALip%20Gloss%2Csubclass%3ALip%20Scrub%2Csubclass%3ALip%20Treatment&limit=180&orderBy=REC&priceType=regular&productId=d0f38480-c01c-4534-9da7-5b025be0173a&size1=One%20Size&size2=&stackId=278692ae-fedb-4bd7-b89b-1ddd7b33c2ad&genericId=11201542&choice=964Z",
+        "family": "Lip",
+        "name": "Shine Plumper Extreme Lip Plumper",
+        "rating": 3.87,
+        "totalReviewCount": 102,
+        "productImages": [
+          "tif/be/10/be10b6cf1ca84630b8cf1a84c982b054/11201542964Z_OF_F"
+        ],
+        "offerCallout": null,
+        "swatchCount": 2,
+        "swatchLabel": "",
+        "price": "$14.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "New!&#160;Crystal Clear&#160;Shine Extreme Lip Plumper",
+        "hideOnMobile": false,
+        "displayGenericDescription": false,
+        "masterStyleId": "1120154200"
+      },
+      {
+        "id": "6490aab9-405d-463f-83dc-7d3216ba0f84",
+        "genericChoiceId": "11235653_3653",
+        "url": "/us/vs/beauty-catalog/5000009702?brand=&collectionId=171973f6-8c24-42e6-b938-5738c21250bc&limit=180&orderBy=REC&priceType=regular&productId=6490aab9-405d-463f-83dc-7d3216ba0f84&stackId=3aeec73e-4c8f-4128-ab88-67812f564510&genericId=11235653&choice=3653",
+        "family": "Lip",
+        "name": "Lip Oil",
+        "rating": 3,
+        "totalReviewCount": 2,
+        "productImages": [
+          "png/zz/24/01/05/00/112356533653_OM_F"
+        ],
+        "swatchCount": 1,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$12",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "New! Lip Plumper",
+        "hideOnMobile": false,
+        "displayGenericDescription": false,
+        "masterStyleId": "5000009702"
+      },
+      {
+        "id": "9105a063-1745-4cce-87e8-095ebdcccbc5",
+        "genericChoiceId": "11233310_0086",
+        "url": "/us/vs/beauty-catalog/1123331000?brand=&collectionId=171973f6-8c24-42e6-b938-5738c21250bc&limit=180&orderBy=REC&priceType=all&productId=9105a063-1745-4cce-87e8-095ebdcccbc5&stackId=193d8730-bcd2-4fcd-a21c-8895c1906db9&genericId=11233310&choice=0086",
+        "family": "Lip",
+        "isNew": false,
+        "name": "Lip Care Kit",
+        "rating": 0,
+        "totalReviewCount": 0,
+        "productImages": [
+          "png/zz/23/12/28/02/112333100086_OM_F",
+          "png/zz/23/12/28/02/112333100086_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 1,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$35",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": false,
+        "masterStyleId": "1123331000"
+      }
+    ]
+  },
+  "show me some beauty products": {
+    "text": "Here are the beauty products you're looking for",
+    "list":[
+      {
+        "id": "28c8a39d-4e9e-4c48-bd71-7cfeec13013c",
+        "genericChoiceId": "11232935_3586",
+        "url": "/us/vs/beauty-catalog/1123293500?brand=&collectionId=8904b22b-b271-4cf5-a586-4d41e148bb8e&limit=180&orderBy=REC&priceType=regular&productId=28c8a39d-4e9e-4c48-bd71-7cfeec13013c&stackId=97e82ace-9ac6-4473-91f1-2872224868aa&genericId=11232935&choice=3586",
+        "family": "Fine Fragrance",
+        "name": "Tease Collector's Edition Eau De Parfum",
+        "rating": 4.64,
+        "totalReviewCount": 25,
+        "productImages": [
+          "png/zz/23/12/28/02/112329353586_OM_F",
+          "png/zz/23/12/28/02/112329353586_OM_B"
+        ],
+        "swatchCount": 1,
+        "swatchLabel": "",
+        "price": "$89.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "New! Tease Collector&#39;s Edition Eau De Parfum",
+        "hideOnMobile": false,
+        "displayGenericDescription": false,
+        "masterStyleId": "1123293500"
+      },
+      {
+        "id": "f1a1006b-d758-4350-b4a6-955bd6f4653c",
+        "genericChoiceId": "11226025_3586",
+        "url": "/us/vs/beauty-catalog/5000008593?brand=&collectionId=8904b22b-b271-4cf5-a586-4d41e148bb8e&limit=180&orderBy=REC&priceType=regular&productId=f1a1006b-d758-4350-b4a6-955bd6f4653c&stackId=97e82ace-9ac6-4473-91f1-2872224868aa&genericId=11226025&choice=3586",
+        "family": "Fine Fragrance",
+        "name": "Tease Mini Fragrance Duo",
+        "rating": 4.62,
+        "totalReviewCount": 682,
+        "productImages": [
+          "png/zz/23/10/13/03/112260253586_OM_F",
+          "png/zz/23/10/13/03/112260253586_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 6,
+        "swatchLabel": "Scent",
+        "price": "$35",
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "displayGenericDescription": false,
+        "masterStyleId": "5000008593"
+      },
+      {
+        "id": "ceda9577-80b6-47da-9090-f75812143620",
+        "genericChoiceId": "11231921_0086",
+        "url": "/us/vs/beauty-catalog/1123192100?brand=&collectionId=8904b22b-b271-4cf5-a586-4d41e148bb8e&limit=180&orderBy=REC&priceType=regular&productId=ceda9577-80b6-47da-9090-f75812143620&stackId=97e82ace-9ac6-4473-91f1-2872224868aa&genericId=11231921&choice=0086",
+        "family": "Fine Fragrance",
+        "name": "Deluxe Mini Fragrance Trio",
+        "rating": 4.75,
+        "totalReviewCount": 4,
+        "productImages": [
+          "png/zz/23/12/15/23/112319210086_OM_F",
+          "png/zz/23/12/15/01/112319210086_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 1,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$50",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "displayGenericDescription": true,
+        "masterStyleId": "1123192100"
+      },
+      {
+        "id": "44a4cae2-d017-426e-8efa-060022df2fad",
+        "genericChoiceId": "11187394_3586",
+        "url": "/us/vs/beauty-catalog/5000006609?brand=&collectionId=8904b22b-b271-4cf5-a586-4d41e148bb8e&limit=180&orderBy=REC&priceType=regular&productId=44a4cae2-d017-426e-8efa-060022df2fad&stackId=97e82ace-9ac6-4473-91f1-2872224868aa&genericId=11187394&choice=3586",
+        "family": "Fine Fragrance",
+        "name": "Tease Eau de Parfum ",
+        "rating": 4.76,
+        "totalReviewCount": 458,
+        "productImages": [
+          "tif/be/ce/bece5e14243d4371a7b67d5cca4c3b4b/111873943586_OF_F"
+        ],
+        "swatchCount": 2,
+        "swatchLabel": "Size",
+        "itemLevelCallout": [
+          "White Gardenia &#8226; Anjou Pear &#8226; Black Vanilla"
+        ],
+        "price": "$79.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "displayGenericDescription": false,
+        "masterStyleId": "5000006609"
+      },
+      {
+        "id": "e55fa0ab-7286-49dc-b0c0-b8653f1c15c1",
+        "genericChoiceId": "11229679_3586",
+        "url": "/us/vs/beauty-catalog/5000006635?brand=&collectionId=8904b22b-b271-4cf5-a586-4d41e148bb8e&limit=180&orderBy=REC&priceType=regular&productId=e55fa0ab-7286-49dc-b0c0-b8653f1c15c1&stackId=97e82ace-9ac6-4473-91f1-2872224868aa&genericId=11229679&choice=3586",
+        "family": "Fine Fragrance",
+        "name": "Travel Fine Fragrance Mist",
+        "rating": 4.68,
+        "totalReviewCount": 3242,
+        "productImages": [
+          "tif/zz/23/08/01/00/112296793586_OM_F"
+        ],
+        "swatchCount": 17,
+        "swatchLabel": "Scent",
+        "price": "$15",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "Tease Travel Body Mist",
+        "hideOnMobile": false,
+        "displayGenericDescription": true,
+        "masterStyleId": "5000006635"
+      },
+      {
+        "id": "5e065fef-6dc5-4633-a84f-55a8fba1dfd1",
+        "genericChoiceId": "11190393_2538",
+        "url": "/us/vs/beauty-catalog/5000008981?brand=&collectionId=8904b22b-b271-4cf5-a586-4d41e148bb8e&limit=180&orderBy=REC&priceType=regular&productId=5e065fef-6dc5-4633-a84f-55a8fba1dfd1&stackId=97e82ace-9ac6-4473-91f1-2872224868aa&genericId=11190393&choice=2538",
+        "family": "Fine Fragrance",
+        "name": "Tease Crème Cloud Eau de Parfum",
+        "rating": 4.64,
+        "totalReviewCount": 224,
+        "productImages": [
+          "tif/8b/30/8b30851a908a4d74a87aef7f000de8a7/111903932538_OF_F"
+        ],
+        "swatchCount": 2,
+        "swatchLabel": "Size",
+        "price": "$59.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "displayGenericDescription": false,
+        "masterStyleId": "5000008981"
+      }
+    ]
+  },
+  "show me some trending regular sleep wear": {
+    "text": "Here are the trending regular sleep wear you're looking for",
+    "list":[
+      {
+        "id": "e8e53490-2977-4175-9155-81b66807c854",
+        "genericChoiceId": "11238731_64TA",
+        "url": "/us/vs/sleepwear-and-lingerie-catalog/5000008347?brand=&collectionId=a21ffca5-7657-4860-9fe1-42e3dfe61fb1&limit=180&orderBy=REC&priceType=regular&productId=e8e53490-2977-4175-9155-81b66807c854&stackId=8912d842-577e-4b84-9acc-d638a045d908&genericId=11238731&choice=64TA",
+        "family": "Victoria's Secret",
+        "name": "Short Cozy Robe",
+        "rating": 4.82,
+        "totalReviewCount": 1889,
+        "productImages": [
+          "png/zz/23/12/04/23/1123873164TA_OM_F",
+          "png/zz/23/12/04/23/1123873164TA_OM_B"
+        ],
+        "swatchCount": 6,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$59.95",
+        "altPrices": null,
+        "salePrice": "$35.00",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": false,
+        "masterStyleId": "5000008347"
+      },
+      {
+        "id": "51706750-a50a-435a-8c1e-4d797c8eec7c",
+        "genericChoiceId": "11236693_14T9",
+        "url": "/us/vs/sleepwear-and-lingerie-catalog/5000000279?brand=&collectionId=a21ffca5-7657-4860-9fe1-42e3dfe61fb1&limit=180&orderBy=REC&priceType=regular&productId=51706750-a50a-435a-8c1e-4d797c8eec7c&stackId=8912d842-577e-4b84-9acc-d638a045d908&genericId=11236693&choice=14T9",
+        "family": "Victoria's Secret",
+        "isNew": false,
+        "name": "Satin Jacquard Long Pajama Set",
+        "rating": 4.48,
+        "totalReviewCount": 979,
+        "productImages": [
+          "png/zz/23/10/13/03/1123669314T9_OM_F",
+          "png/zz/23/10/13/03/1123669314T9_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 15,
+        "swatchLabel": "",
+        "price": "$79.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": true,
+        "masterStyleId": "5000000279"
+      },
+      {
+        "id": "62636baa-d875-459f-95c6-a1bb56ae3993",
+        "genericChoiceId": "11172534_68OK",
+        "url": "/us/vs/sleepwear-and-lingerie-catalog/5000007765?brand=&collectionId=a21ffca5-7657-4860-9fe1-42e3dfe61fb1&limit=180&orderBy=REC&priceType=regular&productId=62636baa-d875-459f-95c6-a1bb56ae3993&stackId=8912d842-577e-4b84-9acc-d638a045d908&genericId=11172534&choice=68OK",
+        "family": "Victoria's Secret",
+        "isNew": false,
+        "name": "Modal Short Pajama Set",
+        "rating": 4.76,
+        "totalReviewCount": 603,
+        "productImages": [
+          "png/zz/23/11/14/01/1117253468OK_OM_F",
+          "png/zz/23/11/14/01/1117253468OK_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 10,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$64.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": false,
+        "masterStyleId": "5000007765"
+      },
+      {
+        "id": "7d2174de-7dc3-439a-8944-aae2bf2ce779",
+        "genericChoiceId": "11210185_65HG",
+        "url": "/us/vs/sleepwear-and-lingerie-catalog/1121018500?brand=&collectionId=a21ffca5-7657-4860-9fe1-42e3dfe61fb1&limit=180&orderBy=REC&priceType=regular&productId=7d2174de-7dc3-439a-8944-aae2bf2ce779&stackId=8912d842-577e-4b84-9acc-d638a045d908&genericId=11210185&choice=65HG",
+        "family": "Victoria's Secret",
+        "name": "Thermal Sleepshirt",
+        "rating": 4.61,
+        "totalReviewCount": 89,
+        "productImages": [
+          "png/zz/23/11/28/01/1121018565HG_OM_F",
+          "png/zz/23/11/28/01/1121018565HG_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 3,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$39.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": false,
+        "masterStyleId": "1121018500"
+      },
+      {
+        "id": "b24938d8-c002-4bd3-a82b-f0a1087658a0",
+        "genericChoiceId": "11229333_60BQ",
+        "url": "/us/vs/sleepwear-and-lingerie-catalog/1122933300?brand=&collectionId=a21ffca5-7657-4860-9fe1-42e3dfe61fb1&limit=180&orderBy=REC&priceType=regular&productId=b24938d8-c002-4bd3-a82b-f0a1087658a0&stackId=8912d842-577e-4b84-9acc-d638a045d908&genericId=11229333&choice=60BQ",
+        "family": "Victoria's Secret",
+        "isNew": true,
+        "name": "Satin Long Pajama Set",
+        "rating": 4.5,
+        "totalReviewCount": 4,
+        "productImages": [
+          "png/zz/24/01/30/10/1122933360BQ_OM_F",
+          "png/zz/24/01/30/10/1122933360BQ_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 2,
+        "swatchLabel": "",
+        "isZeroAttribute": false,
+        "isNewSavings": false,
+        "isGiftCard": false,
+        "isEGiftCard": false,
+        "isClearance": false,
+        "itemLevelCallout": null,
+        "price": "$79.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": false,
+        "masterStyleId": "1122933300"
+      },
+      {
+        "id": "0c08d0ab-9381-4cd1-b918-33ffd1ac7831",
+        "genericChoiceId": "11230418_63IU",
+        "url": "/us/vs/sleepwear-and-lingerie-catalog/1123041800?brand=&collectionId=a21ffca5-7657-4860-9fe1-42e3dfe61fb1&limit=180&orderBy=REC&priceType=regular&productId=0c08d0ab-9381-4cd1-b918-33ffd1ac7831&stackId=8912d842-577e-4b84-9acc-d638a045d908&genericId=11230418&choice=63IU",
+        "family": "Victoria's Secret",
+        "name": "Shimmer Knit Long Pajama Set",
+        "rating": 4.35,
+        "totalReviewCount": 223,
+        "productImages": [
+          "tif/zz/23/07/22/09/1123041863IU_OM_F",
+          "tif/zz/23/07/22/09/1123041863IU_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 1,
+        "swatchLabel": "",
+        "itemLevelCallout": [
+          "Available in 3 lengths"
+        ],
+        "price": "$89.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": false,
+        "masterStyleId": "1123041800"
+      }
+    ]
+  },
+  "show me some comfortable sportswear for my regular performance activity": {
+    "text": "Here are the trending sportswear you're looking for",
+    "list":[
+      {
+        "id": "336e2164-04dc-4fdb-8f00-32f300585c56",
+        "genericChoiceId": "11214111_5TRG",
+        "url": "/us/vs/apparel-catalog/5000007478?brand=&collectionId=96a0a35d-32ac-4433-a303-e262aafcabd2&limit=180&orderBy=REC&priceType=regular&productId=336e2164-04dc-4fdb-8f00-32f300585c56&stackId=e4c0600e-6834-426e-bb53-e7c66661c648&genericId=11214111&choice=5TRG",
+        "family": "Victoria's Secret",
+        "name": "Essential High-Rise Pocket Leggings",
+        "rating": 4.46,
+        "totalReviewCount": 1904,
+        "genericLabel": "Heart Seam",
+        "productImages": [
+          "png/zz/23/12/08/23/112141115TRG_OM_F",
+          "png/zz/23/12/08/23/112141115TRG_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 9,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$39.95",
+        "altPrices": null,
+        "salePrice": "$35.00",
+        "collectionShortDescription": "New! Essential High-Rise Pocket Leggings",
+        "displayGenericDescription": true,
+        "masterStyleId": "5000007478"
+      },
+      {
+        "id": "76601ea5-e9d1-48ef-be8d-f2030c7bd5b4",
+        "genericChoiceId": "11219415_5TRG",
+        "url": "/us/vs/bras-catalog/5000009225?brand=&collectionId=96a0a35d-32ac-4433-a303-e262aafcabd2&limit=180&orderBy=REC&priceType=regular&productId=76601ea5-e9d1-48ef-be8d-f2030c7bd5b4&stackId=e4c0600e-6834-426e-bb53-e7c66661c648&genericId=11219415&choice=5TRG",
+        "family": "Victoria's Secret",
+        "name": "Incredible Plunge Sports Bra",
+        "rating": 3.91,
+        "totalReviewCount": 213,
+        "productImages": [
+          "png/zz/23/11/16/00/112194155TRG_OM_F",
+          "png/zz/23/11/16/00/112194155TRG_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 7,
+        "swatchLabel": "",
+        "itemLevelCallout": [
+          "Available in B -DDD"
+        ],
+        "price": "$54.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "New! Incredible Plunge Sports Bra",
+        "hideOnMobile": false,
+        "displayGenericDescription": true,
+        "masterStyleId": "5000009225"
+      },
+      {
+        "id": "70f69c7e-8bd8-4306-b58c-dd85fd986b78",
+        "genericChoiceId": "11236843_58K4",
+        "url": "/us/vs/apparel-catalog/1123684300?brand=&collectionId=96a0a35d-32ac-4433-a303-e262aafcabd2&limit=180&orderBy=REC&priceType=regular&productId=70f69c7e-8bd8-4306-b58c-dd85fd986b78&stackId=e4c0600e-6834-426e-bb53-e7c66661c648&genericId=11236843&choice=58K4",
+        "family": "Victoria's Secret",
+        "isNew": false,
+        "name": "Essential Mesh Catsuit",
+        "rating": 3.67,
+        "totalReviewCount": 3,
+        "productImages": [
+          "png/zz/24/01/10/01/1123684358K4_OM_F",
+          "png/zz/24/01/10/01/1123684358K4_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 2,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$69.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": true,
+        "masterStyleId": "1123684300"
+      },
+      {
+        "id": "2a032079-fd37-4fbe-8a59-aab036f89c1b",
+        "genericChoiceId": "11236046_97L0",
+        "url": "/us/vs/apparel-catalog/1123604600?brand=&collectionId=96a0a35d-32ac-4433-a303-e262aafcabd2&limit=180&orderBy=REC&priceType=regular&productId=2a032079-fd37-4fbe-8a59-aab036f89c1b&stackId=e4c0600e-6834-426e-bb53-e7c66661c648&genericId=11236046&choice=97L0",
+        "family": "Victoria's Secret",
+        "isNew": false,
+        "name": "Love Cloud Heart Seam Flare Leggings",
+        "rating": 4,
+        "totalReviewCount": 3,
+        "productImages": [
+          "png/zz/24/01/21/03/1123604697L0_OM_F",
+          "png/zz/24/01/21/03/1123604697L0_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 2,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$49.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": true,
+        "masterStyleId": "1123604600"
+      }
+    ]
+  },
+  "suggest me some night wear for my girls night out": {
+    "text": "Here are the some nightwear you're looking for",
+    "list":[
+      {
+        "id": "01448d89-3ecc-4639-84e9-c7395930c97d",
+        "genericChoiceId": "11242220_70S8",
+        "url": "/us/vs/sleepwear-and-lingerie-catalog/1124222000?brand=&collectionId=edd5b611-2dab-41bf-8dac-807999a36588&limit=180&orderBy=REC&priceType=regular&productId=01448d89-3ecc-4639-84e9-c7395930c97d&stackId=bd575438-1f4d-453d-9f30-d595e6a17d66&genericId=11242220&choice=70S8",
+        "family": "Adore Me",
+        "isNew": true,
+        "name": "Zandy Slip",
+        "rating": 3.82,
+        "totalReviewCount": 11,
+        "productImages": [
+          "png/zz/24/01/22/23/1124222070S8_OM_F",
+          "png/zz/24/01/22/23/1124222070S8_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 1,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$54.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": false,
+        "masterStyleId": "1124222000"
+      },
+      {
+        "id": "4a4ef2d8-aa96-4dc6-ac27-3c4aa06fa609",
+        "genericChoiceId": "11251159_81L0",
+        "url": "/us/vs/sleepwear-and-lingerie-catalog/1125115900?brand=&collectionId=edd5b611-2dab-41bf-8dac-807999a36588&limit=180&orderBy=REC&priceType=regular&productId=4a4ef2d8-aa96-4dc6-ac27-3c4aa06fa609&stackId=bd575438-1f4d-453d-9f30-d595e6a17d66&genericId=11251159&choice=81L0",
+        "family": "Adore Me",
+        "isNew": true,
+        "name": "Brigita PJ Set",
+        "rating": 0,
+        "totalReviewCount": 0,
+        "productImages": [
+          "png/zz/24/01/26/11/1125115981L0_OM_F",
+          "png/zz/24/01/26/11/1125115981L0_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 2,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$54.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": false,
+        "masterStyleId": "1125115900"
+      },
+      {
+        "id": "624e81d7-0cb8-45cb-881d-28cf42c8cca7",
+        "genericChoiceId": "11251158_54A2",
+        "url": "/us/vs/sleepwear-and-lingerie-catalog/1125115800?brand=&collectionId=edd5b611-2dab-41bf-8dac-807999a36588&limit=180&orderBy=REC&priceType=regular&productId=624e81d7-0cb8-45cb-881d-28cf42c8cca7&stackId=bd575438-1f4d-453d-9f30-d595e6a17d66&genericId=11251158&choice=54A2",
+        "family": "Adore Me",
+        "isNew": true,
+        "name": "Izzy Slip",
+        "rating": 0,
+        "totalReviewCount": 0,
+        "productImages": [
+          "png/zz/24/01/22/23/1125115854A2_OM_F",
+          "png/zz/24/01/22/23/1125115854A2_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 2,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$54.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": false,
+        "masterStyleId": "1125115800"
+      },
+      {
+        "id": "0925bd23-76da-4647-98b4-3094b1973a32",
+        "genericChoiceId": "11244925_32H0",
+        "url": "/us/vs/sleepwear-and-lingerie-catalog/1124492500?brand=&collectionId=edd5b611-2dab-41bf-8dac-807999a36588&limit=180&orderBy=REC&priceType=regular&productId=0925bd23-76da-4647-98b4-3094b1973a32&stackId=bd575438-1f4d-453d-9f30-d595e6a17d66&genericId=11244925&choice=32H0",
+        "family": "Adore Me",
+        "isNew": true,
+        "name": "Raluca Slip",
+        "rating": 3,
+        "totalReviewCount": 4,
+        "productImages": [
+          "png/zz/24/01/22/23/1124492532H0_OM_F",
+          "png/zz/24/01/22/23/1124492532H0_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 1,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$49.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": false,
+        "masterStyleId": "1124492500"
+      }
+    ]}
+}

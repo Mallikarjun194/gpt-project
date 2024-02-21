@@ -1,0 +1,1148 @@
+{
+  "show me some lip essentials for valentine's day": [
+    {
+      "Flavored Lip Gloss": {
+        "id": "a3e310b5-1659-4e68-a633-ca332056752d",
+        "genericChoiceId": "11199510_946T",
+        "url": "/us/vs/beauty-catalog/5000008983?brand=&collectionId=f4fd782a-fe28-42c1-b4c4-a3465dcd5ed0&filter=subclass%3ALip%20Balm%2Csubclass%3ALip%20Gloss%2Csubclass%3ALip%20Scrub%2Csubclass%3ALip%20Treatment&limit=180&orderBy=REC&priceType=regular&productId=a3e310b5-1659-4e68-a633-ca332056752d&size1=One%20Size&size2=&stackId=278692ae-fedb-4bd7-b89b-1ddd7b33c2ad&genericId=11199510&choice=946T",
+        "family": "Lip",
+        "name": "Flavored Lip Gloss",
+        "rating": 4.71,
+        "totalReviewCount": 755,
+        "productImages": [
+          "tif/8b/fb/8bfb0dc8e1f944219a40ca9de6038968/11199510946T_OF_F"
+        ],
+        "swatchCount": 11,
+        "price": "$9.95",
+        "altPrices": null,
+        "collectionShortDescription": "Candy Baby Flavored Lip Gloss",
+        "displayGenericDescription": false,
+        "masterStyleId": "5000008983"
+      },
+      "Color Shine Lip Gloss": {
+        "id": "09045efe-bc74-40e5-9ac1-08d5e53c750d",
+        "genericChoiceId": "11201543_053G",
+        "url": "/us/vs/beauty-catalog/5000008919?brand=&collectionId=f4fd782a-fe28-42c1-b4c4-a3465dcd5ed0&filter=subclass%3ALip%20Balm%2Csubclass%3ALip%20Gloss%2Csubclass%3ALip%20Scrub%2Csubclass%3ALip%20Treatment&limit=180&orderBy=REC&priceType=regular&productId=09045efe-bc74-40e5-9ac1-08d5e53c750d&size1=One%20Size&size2=&stackId=278692ae-fedb-4bd7-b89b-1ddd7b33c2ad&genericId=11201543&choice=053G",
+        "family": "Lip",
+        "name": "Color Shine Lip Gloss",
+        "rating": 4.66,
+        "totalReviewCount": 154,
+        "productImages": [
+          "tif/71/16/7116fc048e634deab71805e901d1a60f/11201543053G_OF_F"
+        ],
+        "swatchCount": 7,
+        "swatchLabel": "",
+        "price": "$14.95",
+        "collectionShortDescription": "New! Glowing Color Shine Lip Gloss",
+        "displayGenericDescription": false,
+        "masterStyleId": "5000008919"
+      },
+      "Shine Plumper Extreme Lip Plumper": {
+        "id": "d0f38480-c01c-4534-9da7-5b025be0173a",
+        "genericChoiceId": "11201542_964Z",
+        "url": "/us/vs/beauty-catalog/1120154200?brand=&collectionId=f4fd782a-fe28-42c1-b4c4-a3465dcd5ed0&filter=subclass%3ALip%20Balm%2Csubclass%3ALip%20Gloss%2Csubclass%3ALip%20Scrub%2Csubclass%3ALip%20Treatment&limit=180&orderBy=REC&priceType=regular&productId=d0f38480-c01c-4534-9da7-5b025be0173a&size1=One%20Size&size2=&stackId=278692ae-fedb-4bd7-b89b-1ddd7b33c2ad&genericId=11201542&choice=964Z",
+        "family": "Lip",
+        "name": "Shine Plumper Extreme Lip Plumper",
+        "rating": 3.87,
+        "totalReviewCount": 102,
+        "productImages": [
+          "tif/be/10/be10b6cf1ca84630b8cf1a84c982b054/11201542964Z_OF_F"
+        ],
+        "offerCallout": null,
+        "swatchCount": 2,
+        "swatchLabel": "",
+        "price": "$14.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "New!&#160;Crystal Clear&#160;Shine Extreme Lip Plumper",
+        "hideOnMobile": false,
+        "displayGenericDescription": false,
+        "masterStyleId": "1120154200"
+      },
+      "Lip Oil": {
+        "id": "6490aab9-405d-463f-83dc-7d3216ba0f84",
+        "genericChoiceId": "11235653_3653",
+        "url": "/us/vs/beauty-catalog/5000009702?brand=&collectionId=171973f6-8c24-42e6-b938-5738c21250bc&limit=180&orderBy=REC&priceType=regular&productId=6490aab9-405d-463f-83dc-7d3216ba0f84&stackId=3aeec73e-4c8f-4128-ab88-67812f564510&genericId=11235653&choice=3653",
+        "family": "Lip",
+        "name": "Lip Oil",
+        "rating": 3,
+        "totalReviewCount": 2,
+        "productImages": [
+          "png/zz/24/01/05/00/112356533653_OM_F"
+        ],
+        "swatchCount": 1,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$12",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "New! Lip Plumper",
+        "hideOnMobile": false,
+        "displayGenericDescription": false,
+        "masterStyleId": "5000009702"
+      },
+      "Lip Care Kit": {
+        "id": "9105a063-1745-4cce-87e8-095ebdcccbc5",
+        "genericChoiceId": "11233310_0086",
+        "url": "/us/vs/beauty-catalog/1123331000?brand=&collectionId=171973f6-8c24-42e6-b938-5738c21250bc&limit=180&orderBy=REC&priceType=all&productId=9105a063-1745-4cce-87e8-095ebdcccbc5&stackId=193d8730-bcd2-4fcd-a21c-8895c1906db9&genericId=11233310&choice=0086",
+        "family": "Lip",
+        "isNew": false,
+        "name": "Lip Care Kit",
+        "rating": 0,
+        "totalReviewCount": 0,
+        "productImages": [
+          "png/zz/23/12/28/02/112333100086_OM_F",
+          "png/zz/23/12/28/02/112333100086_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 1,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$35",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": false,
+        "masterStyleId": "1123331000"
+      }
+    }
+  ],
+  "show me some beauty products": [{
+    "Tease Collector's Edition Eau De Parfum": {
+      "id": "28c8a39d-4e9e-4c48-bd71-7cfeec13013c",
+      "genericChoiceId": "11232935_3586",
+      "url": "/us/vs/beauty-catalog/1123293500?brand=&collectionId=8904b22b-b271-4cf5-a586-4d41e148bb8e&limit=180&orderBy=REC&priceType=regular&productId=28c8a39d-4e9e-4c48-bd71-7cfeec13013c&stackId=97e82ace-9ac6-4473-91f1-2872224868aa&genericId=11232935&choice=3586",
+      "family": "Fine Fragrance",
+      "name": "Tease Collector's Edition Eau De Parfum",
+      "rating": 4.64,
+      "totalReviewCount": 25,
+      "productImages": [
+        "png/zz/23/12/28/02/112329353586_OM_F",
+        "png/zz/23/12/28/02/112329353586_OM_B"
+      ],
+      "swatchCount": 1,
+      "swatchLabel": "",
+      "price": "$89.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "New! Tease Collector&#39;s Edition Eau De Parfum",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "1123293500"
+    },
+    "Tease Mini Fragrance Duo": {
+      "id": "f1a1006b-d758-4350-b4a6-955bd6f4653c",
+      "genericChoiceId": "11226025_3586",
+      "url": "/us/vs/beauty-catalog/5000008593?brand=&collectionId=8904b22b-b271-4cf5-a586-4d41e148bb8e&limit=180&orderBy=REC&priceType=regular&productId=f1a1006b-d758-4350-b4a6-955bd6f4653c&stackId=97e82ace-9ac6-4473-91f1-2872224868aa&genericId=11226025&choice=3586",
+      "family": "Fine Fragrance",
+      "name": "Tease Mini Fragrance Duo",
+      "rating": 4.62,
+      "totalReviewCount": 682,
+      "productImages": [
+        "png/zz/23/10/13/03/112260253586_OM_F",
+        "png/zz/23/10/13/03/112260253586_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 6,
+      "swatchLabel": "Scent",
+      "price": "$35",
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "displayGenericDescription": false,
+      "masterStyleId": "5000008593"
+    },
+    "Deluxe Mini Fragrance Trio" : {
+      "id": "ceda9577-80b6-47da-9090-f75812143620",
+      "genericChoiceId": "11231921_0086",
+      "url": "/us/vs/beauty-catalog/1123192100?brand=&collectionId=8904b22b-b271-4cf5-a586-4d41e148bb8e&limit=180&orderBy=REC&priceType=regular&productId=ceda9577-80b6-47da-9090-f75812143620&stackId=97e82ace-9ac6-4473-91f1-2872224868aa&genericId=11231921&choice=0086",
+      "family": "Fine Fragrance",
+      "name": "Deluxe Mini Fragrance Trio",
+      "rating": 4.75,
+      "totalReviewCount": 4,
+      "productImages": [
+        "png/zz/23/12/15/23/112319210086_OM_F",
+        "png/zz/23/12/15/01/112319210086_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 1,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$50",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "displayGenericDescription": true,
+      "masterStyleId": "1123192100"
+    },
+    "Tease Eau de Parfum":  {
+      "id": "44a4cae2-d017-426e-8efa-060022df2fad",
+      "genericChoiceId": "11187394_3586",
+      "url": "/us/vs/beauty-catalog/5000006609?brand=&collectionId=8904b22b-b271-4cf5-a586-4d41e148bb8e&limit=180&orderBy=REC&priceType=regular&productId=44a4cae2-d017-426e-8efa-060022df2fad&stackId=97e82ace-9ac6-4473-91f1-2872224868aa&genericId=11187394&choice=3586",
+      "family": "Fine Fragrance",
+      "name": "Tease Eau de Parfum ",
+      "rating": 4.76,
+      "totalReviewCount": 458,
+      "productImages": [
+        "tif/be/ce/bece5e14243d4371a7b67d5cca4c3b4b/111873943586_OF_F"
+      ],
+      "swatchCount": 2,
+      "swatchLabel": "Size",
+      "itemLevelCallout": [
+        "White Gardenia &#8226; Anjou Pear &#8226; Black Vanilla"
+      ],
+      "price": "$79.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "displayGenericDescription": false,
+      "masterStyleId": "5000006609"
+    },
+    "Travel Fine Fragrance Mist" :  {
+      "id": "e55fa0ab-7286-49dc-b0c0-b8653f1c15c1",
+      "genericChoiceId": "11229679_3586",
+      "url": "/us/vs/beauty-catalog/5000006635?brand=&collectionId=8904b22b-b271-4cf5-a586-4d41e148bb8e&limit=180&orderBy=REC&priceType=regular&productId=e55fa0ab-7286-49dc-b0c0-b8653f1c15c1&stackId=97e82ace-9ac6-4473-91f1-2872224868aa&genericId=11229679&choice=3586",
+      "family": "Fine Fragrance",
+      "name": "Travel Fine Fragrance Mist",
+      "rating": 4.68,
+      "totalReviewCount": 3242,
+      "productImages": [
+        "tif/zz/23/08/01/00/112296793586_OM_F"
+      ],
+      "swatchCount": 17,
+      "swatchLabel": "Scent",
+      "price": "$15",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "Tease Travel Body Mist",
+      "hideOnMobile": false,
+      "displayGenericDescription": true,
+      "masterStyleId": "5000006635"
+    },
+    "Tease Crème Cloud Eau de Parfum": {
+      "id": "5e065fef-6dc5-4633-a84f-55a8fba1dfd1",
+      "genericChoiceId": "11190393_2538",
+      "url": "/us/vs/beauty-catalog/5000008981?brand=&collectionId=8904b22b-b271-4cf5-a586-4d41e148bb8e&limit=180&orderBy=REC&priceType=regular&productId=5e065fef-6dc5-4633-a84f-55a8fba1dfd1&stackId=97e82ace-9ac6-4473-91f1-2872224868aa&genericId=11190393&choice=2538",
+      "family": "Fine Fragrance",
+      "name": "Tease Crème Cloud Eau de Parfum",
+      "rating": 4.64,
+      "totalReviewCount": 224,
+      "productImages": [
+        "tif/8b/30/8b30851a908a4d74a87aef7f000de8a7/111903932538_OF_F"
+      ],
+      "swatchCount": 2,
+      "swatchLabel": "Size",
+      "price": "$59.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "displayGenericDescription": false,
+      "masterStyleId": "5000008981"
+    },
+    "Bombshell Eau de Parfum": {
+      "id": "86d35c85-5025-4a0b-a8b0-9ec4d8bd6900",
+      "genericChoiceId": "11189379_2457",
+      "url": "/us/vs/beauty-catalog/5000006601?brand=&collectionId=9cd3828f-bd75-41db-a577-3d57957f9b1a&limit=180&orderBy=REC&priceType=regular&productId=86d35c85-5025-4a0b-a8b0-9ec4d8bd6900&stackId=6eff0dde-6a28-4723-a241-81b66c69f218&genericId=11189379&choice=2457",
+      "family": "Fine Fragrance",
+      "name": "Bombshell Eau de Parfum",
+      "rating": 4.76,
+      "totalReviewCount": 896,
+      "productImages": [
+        "tif/50/56/5056de774d8240719f855391475704ee/111893792457_OF_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 2,
+      "swatchLabel": "Size",
+      "itemLevelCallout": [
+        "Purple Passion Fruit &#8226; Shangri-La Peony &#8226; Vanilla Orchid"
+      ],
+      "price": "$79.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "Bombshell Eau de Parfum",
+      "displayGenericDescription": false,
+      "masterStyleId": "5000006601"
+    },
+    "Sol Body Mist": {
+      "id": "a3f6eeb3-dbd3-42de-b9ed-52d56c853384",
+      "genericChoiceId": "11241803_5645",
+      "url": "/us/vs/beauty-catalog/1124180300?brand=\u0026collectionId=bab1b573-1a08-43f9-af70-78218bd7afce\u0026limit=180\u0026orderBy=REC\u0026priceType=all\u0026productId=a3f6eeb3-dbd3-42de-b9ed-52d56c853384\u0026stackId=b816b248-970c-468f-a8d0-602ba1b0aff4\u0026genericId=11241803\u0026choice=5645",
+      "family": "Body Fragrance",
+      "name": "Sol Body Mist",
+      "rating": 5,
+      "totalReviewCount": 4,
+      "productImages": [
+        "png/zz/24/02/02/20/112418035645_OM_F",
+        "png/zz/24/02/02/20/112418035645_OM_B"
+      ],
+      "offerCallout": [
+        "Buy 2, Get 3 Free Mist Collection."
+      ],
+      "swatchCount": 3,
+      "swatchLabel": "Scent",
+      "itemLevelCallout": [
+        "Pomelo \u0026#8226; Vanilla Zest"
+      ],
+      "price": "$19.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "New!\u0026#160;Bare Vanilla Sol Body Mist\u0026#160;",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "1124180300"
+    },
+    "Limited Edition Enchanted Sundown Fragrance Mist":  {
+      "id": "7dcfd67b-dc48-4c46-89ad-06fb211f84bc",
+      "genericChoiceId": "11228308_4833",
+      "url": "/us/vs/beauty-catalog/1122830800?brand=\u0026collectionId=bab1b573-1a08-43f9-af70-78218bd7afce\u0026limit=180\u0026orderBy=REC\u0026priceType=all\u0026productId=7dcfd67b-dc48-4c46-89ad-06fb211f84bc\u0026stackId=b816b248-970c-468f-a8d0-602ba1b0aff4\u0026genericId=11228308\u0026choice=4833",
+      "family": "Body Fragrance",
+      "isNew": false,
+      "name": "Limited Edition Enchanted Sundown Fragrance Mist",
+      "rating": 0,
+      "totalReviewCount": 0,
+      "productImages": [
+        "png/zz/23/12/15/23/112283084833_OM_F",
+        "png/zz/23/12/15/23/112283084833_OM_B"
+      ],
+      "offerCallout": [
+        "Buy 2, Get 3 Free Mist Collection."
+      ],
+      "swatchCount": 3,
+      "swatchLabel": "Scent",
+      "itemLevelCallout": [
+        "Black Currant \u0026#8226; Jasmine"
+      ],
+      "price": "$19.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "New!\u0026#160;Santal Nightfall Limited Edition Ramadan Body Mist",
+      "hideOnMobile": false,
+      "displayGenericDescription": true,
+      "masterStyleId": "1122830800"
+    },
+    "Vivid Blooms Body Mist":   {
+      "id": "55b38642-b6e5-43bf-b12c-ca2bdc73dc83",
+      "genericChoiceId": "11240905_5561",
+      "url": "/us/vs/beauty-catalog/1124090500?brand=\u0026collectionId=bab1b573-1a08-43f9-af70-78218bd7afce\u0026limit=180\u0026orderBy=REC\u0026priceType=all\u0026productId=55b38642-b6e5-43bf-b12c-ca2bdc73dc83\u0026stackId=b816b248-970c-468f-a8d0-602ba1b0aff4\u0026genericId=11240905\u0026choice=5561",
+      "family": "Body Fragrance",
+      "isNew": false,
+      "name": "Vivid Blooms Body Mist",
+      "rating": 4.08,
+      "totalReviewCount": 39,
+      "productImages": [
+        "png/zz/23/12/28/02/112409055561_OM_F",
+        "png/zz/23/12/28/02/112409055561_OM_B"
+      ],
+      "offerCallout": [
+        "Buy 2, Get 3 Free Mist Collection."
+      ],
+      "swatchCount": 4,
+      "swatchLabel": "Scent",
+      "itemLevelCallout": [
+        "Mariposa \u0026#8226; Violet\u0026#160;\u0026#8226; Apricot"
+      ],
+      "price": "$19.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "Bright Mariposa Apricot Vivid Blooms Body Mist",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "1124090500"
+    },
+    "Glistening Cove Fragrance Mist": {
+      "id": "71a2a7f2-1395-41d7-b23c-77981c0a7720",
+      "genericChoiceId": "11241801_5587",
+      "url": "/us/vs/beauty-catalog/1124180100?brand=\u0026collectionId=bab1b573-1a08-43f9-af70-78218bd7afce\u0026limit=180\u0026orderBy=REC\u0026priceType=all\u0026productId=71a2a7f2-1395-41d7-b23c-77981c0a7720\u0026stackId=b816b248-970c-468f-a8d0-602ba1b0aff4\u0026genericId=11241801\u0026choice=5587",
+      "family": "Body Fragrance",
+      "isNew": false,
+      "name": "Glistening Cove Fragrance Mist",
+      "rating": 4.51,
+      "totalReviewCount": 53,
+      "productImages": [
+        "png/zz/23/12/22/01/112418015587_OM_F",
+        "png/zz/23/12/22/01/112418015587_OM_B"
+      ],
+      "offerCallout": [
+        "Buy 2, Get 3 Free Mist Collection."
+      ],
+      "swatchCount": 4,
+      "swatchLabel": "Scent",
+      "itemLevelCallout": [
+        "Ocean Breeze\u0026#160;\u0026#8226; Apricot\u0026#160;\u0026#8226; Fresh Watermelon"
+      ],
+      "price": "$19.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "Siren Serenade Body Mist",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "1124180100"
+    }
+  }],
+  "show me some trending regular sleep wear": [{
+    "Short Cozy Robe": {
+      "id": "e8e53490-2977-4175-9155-81b66807c854",
+      "genericChoiceId": "11238731_64TA",
+      "url": "/us/vs/sleepwear-and-lingerie-catalog/5000008347?brand=&collectionId=a21ffca5-7657-4860-9fe1-42e3dfe61fb1&limit=180&orderBy=REC&priceType=regular&productId=e8e53490-2977-4175-9155-81b66807c854&stackId=8912d842-577e-4b84-9acc-d638a045d908&genericId=11238731&choice=64TA",
+      "family": "Victoria's Secret",
+      "name": "Short Cozy Robe",
+      "rating": 4.82,
+      "totalReviewCount": 1889,
+      "productImages": [
+        "png/zz/23/12/04/23/1123873164TA_OM_F",
+        "png/zz/23/12/04/23/1123873164TA_OM_B"
+      ],
+      "swatchCount": 6,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$59.95",
+      "altPrices": null,
+      "salePrice": "$35.00",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "5000008347"
+    },
+    "Satin Jacquard Long Pajama Set": {
+      "id": "51706750-a50a-435a-8c1e-4d797c8eec7c",
+      "genericChoiceId": "11236693_14T9",
+      "url": "/us/vs/sleepwear-and-lingerie-catalog/5000000279?brand=&collectionId=a21ffca5-7657-4860-9fe1-42e3dfe61fb1&limit=180&orderBy=REC&priceType=regular&productId=51706750-a50a-435a-8c1e-4d797c8eec7c&stackId=8912d842-577e-4b84-9acc-d638a045d908&genericId=11236693&choice=14T9",
+      "family": "Victoria's Secret",
+      "isNew": false,
+      "name": "Satin Jacquard Long Pajama Set",
+      "rating": 4.48,
+      "totalReviewCount": 979,
+      "productImages": [
+        "png/zz/23/10/13/03/1123669314T9_OM_F",
+        "png/zz/23/10/13/03/1123669314T9_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 15,
+      "swatchLabel": "",
+      "price": "$79.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": true,
+      "masterStyleId": "5000000279"
+    },
+    "Modal Short Pajama Set": {
+      "id": "62636baa-d875-459f-95c6-a1bb56ae3993",
+      "genericChoiceId": "11172534_68OK",
+      "url": "/us/vs/sleepwear-and-lingerie-catalog/5000007765?brand=&collectionId=a21ffca5-7657-4860-9fe1-42e3dfe61fb1&limit=180&orderBy=REC&priceType=regular&productId=62636baa-d875-459f-95c6-a1bb56ae3993&stackId=8912d842-577e-4b84-9acc-d638a045d908&genericId=11172534&choice=68OK",
+      "family": "Victoria's Secret",
+      "isNew": false,
+      "name": "Modal Short Pajama Set",
+      "rating": 4.76,
+      "totalReviewCount": 603,
+      "productImages": [
+        "png/zz/23/11/14/01/1117253468OK_OM_F",
+        "png/zz/23/11/14/01/1117253468OK_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 10,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$64.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "5000007765"
+    },
+    "Thermal Sleepshirt": {
+      "id": "7d2174de-7dc3-439a-8944-aae2bf2ce779",
+      "genericChoiceId": "11210185_65HG",
+      "url": "/us/vs/sleepwear-and-lingerie-catalog/1121018500?brand=&collectionId=a21ffca5-7657-4860-9fe1-42e3dfe61fb1&limit=180&orderBy=REC&priceType=regular&productId=7d2174de-7dc3-439a-8944-aae2bf2ce779&stackId=8912d842-577e-4b84-9acc-d638a045d908&genericId=11210185&choice=65HG",
+      "family": "Victoria's Secret",
+      "name": "Thermal Sleepshirt",
+      "rating": 4.61,
+      "totalReviewCount": 89,
+      "productImages": [
+        "png/zz/23/11/28/01/1121018565HG_OM_F",
+        "png/zz/23/11/28/01/1121018565HG_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 3,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$39.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "1121018500"
+    },
+    "Satin Long Pajama Set":  {
+      "id": "b24938d8-c002-4bd3-a82b-f0a1087658a0",
+      "genericChoiceId": "11229333_60BQ",
+      "url": "/us/vs/sleepwear-and-lingerie-catalog/1122933300?brand=&collectionId=a21ffca5-7657-4860-9fe1-42e3dfe61fb1&limit=180&orderBy=REC&priceType=regular&productId=b24938d8-c002-4bd3-a82b-f0a1087658a0&stackId=8912d842-577e-4b84-9acc-d638a045d908&genericId=11229333&choice=60BQ",
+      "family": "Victoria's Secret",
+      "isNew": true,
+      "name": "Satin Long Pajama Set",
+      "rating": 4.5,
+      "totalReviewCount": 4,
+      "productImages": [
+        "png/zz/24/01/30/10/1122933360BQ_OM_F",
+        "png/zz/24/01/30/10/1122933360BQ_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 2,
+      "swatchLabel": "",
+      "isZeroAttribute": false,
+      "isNewSavings": false,
+      "isGiftCard": false,
+      "isEGiftCard": false,
+      "isClearance": false,
+      "itemLevelCallout": null,
+      "price": "$79.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "1122933300"
+    },
+    "Shimmer Knit Long Pajama Set":  {
+      "id": "0c08d0ab-9381-4cd1-b918-33ffd1ac7831",
+      "genericChoiceId": "11230418_63IU",
+      "url": "/us/vs/sleepwear-and-lingerie-catalog/1123041800?brand=&collectionId=a21ffca5-7657-4860-9fe1-42e3dfe61fb1&limit=180&orderBy=REC&priceType=regular&productId=0c08d0ab-9381-4cd1-b918-33ffd1ac7831&stackId=8912d842-577e-4b84-9acc-d638a045d908&genericId=11230418&choice=63IU",
+      "family": "Victoria's Secret",
+      "name": "Shimmer Knit Long Pajama Set",
+      "rating": 4.35,
+      "totalReviewCount": 223,
+      "productImages": [
+        "tif/zz/23/07/22/09/1123041863IU_OM_F",
+        "tif/zz/23/07/22/09/1123041863IU_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 1,
+      "swatchLabel": "",
+      "itemLevelCallout": [
+        "Available in 3 lengths"
+      ],
+      "price": "$89.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "1123041800"
+    }
+  }],
+  "show me some comfortable sportswear for my regular performance activity": [{
+    "Essential High-Rise Pocket Leggings": {
+      "id": "336e2164-04dc-4fdb-8f00-32f300585c56",
+      "genericChoiceId": "11214111_5TRG",
+      "url": "/us/vs/apparel-catalog/5000007478?brand=&collectionId=96a0a35d-32ac-4433-a303-e262aafcabd2&limit=180&orderBy=REC&priceType=regular&productId=336e2164-04dc-4fdb-8f00-32f300585c56&stackId=e4c0600e-6834-426e-bb53-e7c66661c648&genericId=11214111&choice=5TRG",
+      "family": "Victoria's Secret",
+      "name": "Essential High-Rise Pocket Leggings",
+      "rating": 4.46,
+      "totalReviewCount": 1904,
+      "genericLabel": "Heart Seam",
+      "productImages": [
+        "png/zz/23/12/08/23/112141115TRG_OM_F",
+        "png/zz/23/12/08/23/112141115TRG_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 9,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$39.95",
+      "altPrices": null,
+      "salePrice": "$35.00",
+      "collectionShortDescription": "New! Essential High-Rise Pocket Leggings",
+      "displayGenericDescription": true,
+      "masterStyleId": "5000007478"
+    },
+    "Incredible Plunge Sports Bra" :  {
+      "id": "76601ea5-e9d1-48ef-be8d-f2030c7bd5b4",
+      "genericChoiceId": "11219415_5TRG",
+      "url": "/us/vs/bras-catalog/5000009225?brand=&collectionId=96a0a35d-32ac-4433-a303-e262aafcabd2&limit=180&orderBy=REC&priceType=regular&productId=76601ea5-e9d1-48ef-be8d-f2030c7bd5b4&stackId=e4c0600e-6834-426e-bb53-e7c66661c648&genericId=11219415&choice=5TRG",
+      "family": "Victoria's Secret",
+      "name": "Incredible Plunge Sports Bra",
+      "rating": 3.91,
+      "totalReviewCount": 213,
+      "productImages": [
+        "png/zz/23/11/16/00/112194155TRG_OM_F",
+        "png/zz/23/11/16/00/112194155TRG_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 7,
+      "swatchLabel": "",
+      "itemLevelCallout": [
+        "Available in B -DDD"
+      ],
+      "price": "$54.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "New! Incredible Plunge Sports Bra",
+      "hideOnMobile": false,
+      "displayGenericDescription": true,
+      "masterStyleId": "5000009225"
+    },
+    "Essential Mesh Catsuit" :  {
+      "id": "70f69c7e-8bd8-4306-b58c-dd85fd986b78",
+      "genericChoiceId": "11236843_58K4",
+      "url": "/us/vs/apparel-catalog/1123684300?brand=&collectionId=96a0a35d-32ac-4433-a303-e262aafcabd2&limit=180&orderBy=REC&priceType=regular&productId=70f69c7e-8bd8-4306-b58c-dd85fd986b78&stackId=e4c0600e-6834-426e-bb53-e7c66661c648&genericId=11236843&choice=58K4",
+      "family": "Victoria's Secret",
+      "isNew": false,
+      "name": "Essential Mesh Catsuit",
+      "rating": 3.67,
+      "totalReviewCount": 3,
+      "productImages": [
+        "png/zz/24/01/10/01/1123684358K4_OM_F",
+        "png/zz/24/01/10/01/1123684358K4_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 2,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$69.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": true,
+      "masterStyleId": "1123684300"
+    },
+    "Love Cloud Heart Seam Flare Leggings" :    {
+      "id": "2a032079-fd37-4fbe-8a59-aab036f89c1b",
+      "genericChoiceId": "11236046_97L0",
+      "url": "/us/vs/apparel-catalog/1123604600?brand=&collectionId=96a0a35d-32ac-4433-a303-e262aafcabd2&limit=180&orderBy=REC&priceType=regular&productId=2a032079-fd37-4fbe-8a59-aab036f89c1b&stackId=e4c0600e-6834-426e-bb53-e7c66661c648&genericId=11236046&choice=97L0",
+      "family": "Victoria's Secret",
+      "isNew": false,
+      "name": "Love Cloud Heart Seam Flare Leggings",
+      "rating": 4,
+      "totalReviewCount": 3,
+      "productImages": [
+        "png/zz/24/01/21/03/1123604697L0_OM_F",
+        "png/zz/24/01/21/03/1123604697L0_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 2,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$49.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": true,
+      "masterStyleId": "1123604600"
+    }
+  }],
+  "suggest me some night wear for my girls night out": [{
+    "Zandy Slip" : {
+      "id": "01448d89-3ecc-4639-84e9-c7395930c97d",
+      "genericChoiceId": "11242220_70S8",
+      "url": "/us/vs/sleepwear-and-lingerie-catalog/1124222000?brand=&collectionId=edd5b611-2dab-41bf-8dac-807999a36588&limit=180&orderBy=REC&priceType=regular&productId=01448d89-3ecc-4639-84e9-c7395930c97d&stackId=bd575438-1f4d-453d-9f30-d595e6a17d66&genericId=11242220&choice=70S8",
+      "family": "Adore Me",
+      "isNew": true,
+      "name": "Zandy Slip",
+      "rating": 3.82,
+      "totalReviewCount": 11,
+      "productImages": [
+        "png/zz/24/01/22/23/1124222070S8_OM_F",
+        "png/zz/24/01/22/23/1124222070S8_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 1,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$54.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "1124222000"
+    },
+    "Brigita PJ Set":  {
+      "id": "4a4ef2d8-aa96-4dc6-ac27-3c4aa06fa609",
+      "genericChoiceId": "11251159_81L0",
+      "url": "/us/vs/sleepwear-and-lingerie-catalog/1125115900?brand=&collectionId=edd5b611-2dab-41bf-8dac-807999a36588&limit=180&orderBy=REC&priceType=regular&productId=4a4ef2d8-aa96-4dc6-ac27-3c4aa06fa609&stackId=bd575438-1f4d-453d-9f30-d595e6a17d66&genericId=11251159&choice=81L0",
+      "family": "Adore Me",
+      "isNew": true,
+      "name": "Brigita PJ Set",
+      "rating": 0,
+      "totalReviewCount": 0,
+      "productImages": [
+        "png/zz/24/01/26/11/1125115981L0_OM_F",
+        "png/zz/24/01/26/11/1125115981L0_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 2,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$54.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "1125115900"
+    },
+    "Izzy Slip" :  {
+      "id": "624e81d7-0cb8-45cb-881d-28cf42c8cca7",
+      "genericChoiceId": "11251158_54A2",
+      "url": "/us/vs/sleepwear-and-lingerie-catalog/1125115800?brand=&collectionId=edd5b611-2dab-41bf-8dac-807999a36588&limit=180&orderBy=REC&priceType=regular&productId=624e81d7-0cb8-45cb-881d-28cf42c8cca7&stackId=bd575438-1f4d-453d-9f30-d595e6a17d66&genericId=11251158&choice=54A2",
+      "family": "Adore Me",
+      "isNew": true,
+      "name": "Izzy Slip",
+      "rating": 0,
+      "totalReviewCount": 0,
+      "productImages": [
+        "png/zz/24/01/22/23/1125115854A2_OM_F",
+        "png/zz/24/01/22/23/1125115854A2_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 2,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$54.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "1125115800"
+    },
+    "Raluca Slip":    {
+      "id": "0925bd23-76da-4647-98b4-3094b1973a32",
+      "genericChoiceId": "11244925_32H0",
+      "url": "/us/vs/sleepwear-and-lingerie-catalog/1124492500?brand=&collectionId=edd5b611-2dab-41bf-8dac-807999a36588&limit=180&orderBy=REC&priceType=regular&productId=0925bd23-76da-4647-98b4-3094b1973a32&stackId=bd575438-1f4d-453d-9f30-d595e6a17d66&genericId=11244925&choice=32H0",
+      "family": "Adore Me",
+      "isNew": true,
+      "name": "Raluca Slip",
+      "rating": 3,
+      "totalReviewCount": 4,
+      "productImages": [
+        "png/zz/24/01/22/23/1124492532H0_OM_F",
+        "png/zz/24/01/22/23/1124492532H0_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 1,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$49.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "1124492500"
+    }
+  }],
+  "show me some bras": [{
+    "Invisible Lift Unlined Smooth Demi Bra": {
+      "id": "f6b5a9d0-c3c4-405c-b49d-0093d523be44",
+      "genericChoiceId": "11218442_33F6",
+      "url": "/us/vs/bras-catalog/5000009011?brand=\u0026collectionId=e88ab444-c093-4a29-a7c9-ef78f2a3e557\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=f6b5a9d0-c3c4-405c-b49d-0093d523be44\u0026stackId=6c96bbf1-4300-4f61-821d-4aa713379d24\u0026genericId=11218442\u0026choice=33F6",
+      "family": "Body by Victoria",
+      "name": "Invisible Lift Unlined Smooth Demi Bra",
+      "rating": 3.96,
+      "totalReviewCount": 56,
+      "genericLabel": "Smooth",
+      "productImages": [
+        "png/zz/24/01/22/23/1121844233F6_OM_F"
+      ],
+      "offerCallout": [
+        "$5 Panty with a Bra Purchase."
+      ],
+      "swatchCount": 10,
+      "swatchLabel": "",
+      "itemLevelCallout": [
+        "Available in cups B-G"
+      ],
+      "price": "$44.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "New! Invisible Lift Unlined Smooth Demi Bra",
+      "hideOnMobile": false,
+      "displayGenericDescription": true,
+      "masterStyleId": "5000009011"
+    },
+    "Lightly Lined Full-Coverage Smooth Bra": {
+      "id": "bb0ab2a7-193a-4254-8e46-543bb126cc58",
+      "genericChoiceId": "11237443_2B8H",
+      "url": "/us/vs/bras-catalog/5000000002?brand=\u0026collectionId=e88ab444-c093-4a29-a7c9-ef78f2a3e557\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=bb0ab2a7-193a-4254-8e46-543bb126cc58\u0026stackId=6c96bbf1-4300-4f61-821d-4aa713379d24\u0026genericId=11237443\u0026choice=2B8H",
+      "family": "Body by Victoria",
+      "name": "Lightly Lined Full-Coverage Smooth Bra",
+      "rating": 4.37,
+      "totalReviewCount": 1966,
+      "genericLabel": "Smooth",
+      "productImages": [
+        "png/zz/23/11/14/23/112374432B8H_OM_F",
+        "png/zz/23/11/14/23/112374432B8H_OM_B"
+      ],
+      "offerCallout": [
+        "$5 Panty with a Bra Purchase."
+      ],
+      "swatchCount": 20,
+      "swatchLabel": "",
+      "itemLevelCallout": [
+        "Available in cups B-G"
+      ],
+      "price": "$49.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "New! Lightly Lined Full-Coverage Smooth Bra",
+      "displayGenericDescription": true,
+      "masterStyleId": "5000000002"
+    },
+    "Lightly Lined Pointelle Wireless Bra":  {
+      "id": "be805a11-5d3d-49f7-9aea-df1ac7502623",
+      "genericChoiceId": "11235667_95D1",
+      "url": "/us/vs/bras-catalog/5000005702?brand=\u0026collectionId=0eae0ab5-7127-4fa1-b34c-bedaeb174bd2\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=be805a11-5d3d-49f7-9aea-df1ac7502623\u0026stackId=94bf3cf8-0656-4122-a919-6604dee76ce0\u0026genericId=11235667\u0026choice=95D1",
+      "family": "The T-shirt",
+      "name": "Lightly Lined Pointelle Wireless Bra",
+      "rating": 4.07,
+      "totalReviewCount": 1574,
+      "genericLabel": "Smooth",
+      "productImages": [
+        "png/zz/24/01/21/03/1123566795D1_OM_F",
+        "png/zz/24/01/21/03/1123566795D1_OM_B"
+      ],
+      "offerCallout": [
+        "$5 Panty with a Bra Purchase."
+      ],
+      "swatchCount": 20,
+      "swatchLabel": "",
+      "itemLevelCallout": [
+        "Available in cups A-G"
+      ],
+      "price": "$39.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": true,
+      "masterStyleId": "5000005702"
+    },
+    "Push-Up Wireless Lace Bra Top":  {
+      "id": "cada7036-1845-4875-8776-5e7621b6ce09",
+      "genericChoiceId": "11237710_34Y5",
+      "url": "/us/vs/bras-catalog/1123771000?brand=\u0026collectionId=0eae0ab5-7127-4fa1-b34c-bedaeb174bd2\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=cada7036-1845-4875-8776-5e7621b6ce09\u0026stackId=94bf3cf8-0656-4122-a919-6604dee76ce0\u0026genericId=11237710\u0026choice=34Y5",
+      "family": "Victoria's Secret",
+      "name": "Push-Up Wireless Lace Bra Top",
+      "rating": 0,
+      "totalReviewCount": 0,
+      "genericLabel": "Lace",
+      "productImages": [
+        "png/zz/24/01/22/23/1123771034Y5_OM_F",
+        "png/zz/24/01/22/23/1123771034Y5_OM_B"
+      ],
+      "offerCallout": [
+        "$5 Panty with a Bra Purchase."
+      ],
+      "swatchCount": 2,
+      "swatchLabel": "",
+      "itemLevelCallout": [
+        "Available in cups A-DDD"
+      ],
+      "price": "$39.95",
+      "altPrices": null,
+      "salePrice": "$29.50",
+      "collectionShortDescription": "",
+      "displayGenericDescription": true,
+      "badges": [
+        {
+          "type": "text",
+          "location": "both",
+          "text": "Online Exclusive"
+        }
+      ],
+      "masterStyleId": "1123771000"
+    }
+  }],
+  "show me some lingerie": [{
+    "Wicked Unlined Lace Teddy":  {
+      "id": "292a0b06-a03a-4819-9603-8a7ac9d08a06",
+      "genericChoiceId": "11240760_2PYG",
+      "url": "/us/vs/sleepwear-and-lingerie-catalog/5000006548?brand=\u0026collectionId=9f1251d2-73ed-4294-a159-d3fbcdbd7577\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=292a0b06-a03a-4819-9603-8a7ac9d08a06\u0026stackId=be144c7b-bb75-4050-bdb7-6eff86b0e411\u0026genericId=11240760\u0026choice=2PYG",
+      "family": "Very Sexy",
+      "name": "Wicked Unlined Lace Teddy",
+      "rating": 4.57,
+      "totalReviewCount": 192,
+      "productImages": [
+        "png/zz/23/10/19/20/112407602PYG_OM_F",
+        "png/zz/23/10/19/20/112407602PYG_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 3,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$79.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": true,
+      "masterStyleId": "5000006548"
+    },
+    "VS Archives Silk Corset Set": {
+      "id": "eaff9080-77b1-4543-bb7a-5123f926e586",
+      "genericChoiceId": "11239121_4YQY",
+      "url": "/us/vs/sleepwear-and-lingerie-catalog/1123912100?brand=\u0026collectionId=9f1251d2-73ed-4294-a159-d3fbcdbd7577\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=eaff9080-77b1-4543-bb7a-5123f926e586\u0026stackId=be144c7b-bb75-4050-bdb7-6eff86b0e411\u0026genericId=11239121\u0026choice=4YQY",
+      "family": "Very Sexy",
+      "name": "VS Archives Silk Corset Set",
+      "rating": 4.67,
+      "totalReviewCount": 6,
+      "productImages": [
+        "png/zz/24/02/02/01/112391214YQY_OM_F",
+        "png/zz/24/02/02/01/112391214YQY_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 6,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$99.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": true,
+      "masterStyleId": "1123912100"
+    },
+    "Modal Lace-Trim Robe": {
+      "id": "2b10dc7a-3f36-4b70-bc3c-e47ef34403ac",
+      "genericChoiceId": "11237022_68OM",
+      "url": "/us/vs/sleepwear-and-lingerie-catalog/5000009123?brand=\u0026collectionId=9f1251d2-73ed-4294-a159-d3fbcdbd7577\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=2b10dc7a-3f36-4b70-bc3c-e47ef34403ac\u0026stackId=be144c7b-bb75-4050-bdb7-6eff86b0e411\u0026genericId=11237022\u0026choice=68OM",
+      "family": "Victoria's Secret",
+      "name": "Modal Lace-Trim Robe",
+      "rating": 4.67,
+      "totalReviewCount": 157,
+      "productImages": [
+        "png/zz/23/12/02/02/1123702268OM_OM_F",
+        "png/zz/23/12/02/02/1123702268OM_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 3,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$59.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": true,
+      "masterStyleId": "5000009123"
+    },
+    "Peekaboo Mesh Open-Cup Babydoll Set":{
+      "id": "0bedf168-4fa2-48ed-89b3-64bbd081a653",
+      "genericChoiceId": "11240754_2PYG",
+      "url": "/us/vs/sleepwear-and-lingerie-catalog/1124075400?brand=\u0026collectionId=9f1251d2-73ed-4294-a159-d3fbcdbd7577\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=0bedf168-4fa2-48ed-89b3-64bbd081a653\u0026stackId=be144c7b-bb75-4050-bdb7-6eff86b0e411\u0026genericId=11240754\u0026choice=2PYG",
+      "family": "Very Sexy",
+      "name": "Peekaboo Mesh Open-Cup Babydoll Set",
+      "rating": 4.09,
+      "totalReviewCount": 11,
+      "productImages": [
+        "png/zz/23/12/08/23/112407542PYG_OM_F",
+        "png/zz/23/12/08/23/112407542PYG_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 2,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$69.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": true,
+      "masterStyleId": "1124075400"
+    }
+  }],
+  "show me some panties": [{
+    "Smoothing Shimmer Brief Panty":  {
+      "id": "79697fe7-8575-43ea-9f1a-fc6e3e0364be",
+      "genericChoiceId": "11242589_2B8H",
+      "url": "/us/vs/panties-catalog/5000009537?brand=\u0026collectionId=4f5166bf-2b49-4fa1-a963-25b8617129ad\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=79697fe7-8575-43ea-9f1a-fc6e3e0364be\u0026stackId=21a8e3b0-2ecc-4d0f-978b-c8dc2d113637\u0026genericId=11242589\u0026choice=2B8H",
+      "family": "Body by Victoria",
+      "isNew": false,
+      "name": "Smoothing Shimmer Brief Panty",
+      "rating": 3.56,
+      "totalReviewCount": 25,
+      "genericLabel": "Smooth",
+      "productImages": [
+        "png/zz/23/11/03/04/112425892B8H_OM_F",
+        "png/zz/23/11/03/04/112425892B8H_OM_B"
+      ],
+      "offerCallout": [
+        "$5 Panty with a Bra Purchase."
+      ],
+      "swatchCount": 9,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$24.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "5000009537"
+    },
+    "Stretch Cotton Bikini Panty":  {
+      "id": "9514efa2-4a5c-46f2-8aa3-8d61b7184fb3",
+      "genericChoiceId": "11214897_6BZ6",
+      "url": "/us/vs/panties-catalog/5000000008?brand=\u0026collectionId=4f5166bf-2b49-4fa1-a963-25b8617129ad\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=9514efa2-4a5c-46f2-8aa3-8d61b7184fb3\u0026stackId=21a8e3b0-2ecc-4d0f-978b-c8dc2d113637\u0026genericId=11214897\u0026choice=6BZ6",
+      "family": "Victoria's Secret",
+      "name": "Stretch Cotton Bikini Panty",
+      "rating": 4.54,
+      "totalReviewCount": 1422,
+      "genericLabel": "Classic",
+      "productImages": [
+        "png/zz/24/02/10/00/112148976BZ6_OF_F"
+      ],
+      "offerCallout": [
+        "$5 Panty with a Bra Purchase."
+      ],
+      "swatchCount": 34,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$10.50",
+      "altPrices": [
+        "any 5/$30"
+      ],
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "5000000008"
+    },
+    "Icon by Victoria's Secret Icon Lace Cheeky Panty": {
+      "id": "62a2339e-b025-46fe-b8be-7379b1e72475",
+      "genericChoiceId": "11227512_20M3",
+      "url": "/us/vs/panties-catalog/5000000018?brand=\u0026collectionId=4f5166bf-2b49-4fa1-a963-25b8617129ad\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=62a2339e-b025-46fe-b8be-7379b1e72475\u0026stackId=21a8e3b0-2ecc-4d0f-978b-c8dc2d113637\u0026genericId=11227512\u0026choice=20M3",
+      "family": "Very Sexy",
+      "name": "Icon by Victoria's Secret Icon Lace Cheeky Panty",
+      "rating": 4.66,
+      "totalReviewCount": 790,
+      "genericLabel": "Icon",
+      "productImages": [
+        "png/zz/24/01/12/01/1122751220M3_OM_F",
+        "png/zz/24/01/12/01/1122751220M3_OM_B"
+      ],
+      "offerCallout": [
+        "$5 Panty with a Bra Purchase."
+      ],
+      "swatchCount": 34,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$18.95",
+      "altPrices": null,
+      "salePrice": "$10.00",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "5000000018"
+    },
+    "Hiphugger Panty":  {
+      "id": "bf25f373-1b49-49c7-ab45-251aebe8a08e",
+      "genericChoiceId": "11199785_48PF",
+      "url": "/us/vs/panties-catalog/5000008501?brand=\u0026collectionId=4f5166bf-2b49-4fa1-a963-25b8617129ad\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=bf25f373-1b49-49c7-ab45-251aebe8a08e\u0026stackId=21a8e3b0-2ecc-4d0f-978b-c8dc2d113637\u0026genericId=11199785\u0026choice=48PF",
+      "family": "Love Cloud",
+      "name": "Hiphugger Panty",
+      "rating": 4.73,
+      "totalReviewCount": 207,
+      "genericLabel": "Smooth",
+      "productImages": [
+        "png/zz/24/02/18/23/1119978548PF_OM_F",
+        "png/zz/24/02/18/23/1119978548PF_OM_B"
+      ],
+      "offerCallout": [
+        "$5 Panty with a Bra Purchase."
+      ],
+      "swatchCount": 12,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$16.95",
+      "altPrices": [
+        "any 3/$39"
+      ],
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "displayGenericDescription": false,
+      "masterStyleId": "5000008501"
+    }
+  }],
+  "show me some swim suits": [{
+    "The Harlow Push-Up One-Piece Swimsuit":   {
+      "id": "4260085e-e00b-42cd-996f-ccf6d336c15e",
+      "genericChoiceId": "11240136_20M3",
+      "url": "/us/vs/swimwear-catalog/5000008922?brand=\u0026collectionId=a80df312-87f7-4af2-b108-400f6dd62b7e\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=4260085e-e00b-42cd-996f-ccf6d336c15e\u0026stackId=23f5fa7e-9208-4191-bc89-dec809d733f7\u0026genericId=11240136\u0026choice=20M3",
+      "family": "Victoria's Secret Swim",
+      "name": "The Harlow Push-Up One-Piece Swimsuit",
+      "rating": 4.15,
+      "totalReviewCount": 68,
+      "productImages": [
+        "png/zz/23/12/28/02/1124013620M3_OM_F",
+        "png/zz/23/12/28/02/1124013620M3_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 4,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$69.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": " The Harlow Push-Up One-Piece Swimsuit",
+      "displayGenericDescription": true,
+      "masterStyleId": "5000008922"
+    },
+    "Twist-Front Removable Push-Up One-Piece Swimsuit": {
+      "id": "83ca5252-70e8-4246-aff9-ddc86791c7c2",
+      "genericChoiceId": "11240134_68NQ",
+      "url": "/us/vs/swimwear-catalog/5000009624?brand=\u0026collectionId=a80df312-87f7-4af2-b108-400f6dd62b7e\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=83ca5252-70e8-4246-aff9-ddc86791c7c2\u0026stackId=23f5fa7e-9208-4191-bc89-dec809d733f7\u0026genericId=11240134\u0026choice=68NQ",
+      "family": "Victoria's Secret Swim",
+      "name": "Twist-Front Removable Push-Up One-Piece Swimsuit",
+      "rating": 5,
+      "totalReviewCount": 1,
+      "genericLabel": "Smooth",
+      "productImages": [
+        "png/zz/23/12/02/02/1124013468NQ_OM_F",
+        "png/zz/23/12/02/02/1124013468NQ_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 4,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$59.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": " Twist-Front Removable Push-Up One-Piece Swimsuit",
+      "displayGenericDescription": true,
+      "masterStyleId": "5000009624"
+    },
+    "Shimmer Cut-Out Bandeau One-Piece Swimsuit": {
+      "id": "af9ea2c0-f2cb-4f9c-9c24-14651dd00981",
+      "genericChoiceId": "11236118_63HK",
+      "url": "/us/vs/swimwear-catalog/1123611800?brand=\u0026collectionId=a80df312-87f7-4af2-b108-400f6dd62b7e\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=af9ea2c0-f2cb-4f9c-9c24-14651dd00981\u0026stackId=23f5fa7e-9208-4191-bc89-dec809d733f7\u0026genericId=11236118\u0026choice=63HK",
+      "family": "Victoria's Secret Swim",
+      "name": "Shimmer Cut-Out Bandeau One-Piece Swimsuit",
+      "rating": 4.67,
+      "totalReviewCount": 3,
+      "productImages": [
+        "png/zz/23/12/28/02/1123611863HK_OM_F",
+        "png/zz/23/12/28/02/1123611863HK_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 2,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$69.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "Shimmer Cut-Out Bandeau One-Piece Swimsuit",
+      "hideOnMobile": false,
+      "displayGenericDescription": true,
+      "masterStyleId": "1123611800"
+    }
+  }]
+}
+
+

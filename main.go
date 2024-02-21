@@ -9,13 +9,14 @@ import (
 )
 
 func main() {
-	fmt.Println("Starting a service!!!!")
+	//fmt.Println("Starting a service!!!!")
 	route := router.SetupRouter()
 	port := os.Getenv("PORT")
+	
 	if port == "" {
 		port = "8080"
 	}
-
+	fmt.Println("Starting a service on port!!!!"+port)
 	s := &http.Server{
 		Addr:           "localhost:" + port,
 		Handler:        route,

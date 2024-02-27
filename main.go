@@ -12,13 +12,17 @@ func main() {
 	//fmt.Println("Starting a service!!!!")
 	route := router.SetupRouter()
 	port := os.Getenv("PORT")
+	ip := os.Getenv("IP")
+	if ip == ""{
+		ip = "localhost"
+	}
 	
 	if port == "" {
 		port = "8080"
 	}
 	fmt.Println("Starting a service on port!!!!"+port)
 	s := &http.Server{
-		Addr:           "localhost:" + port,
+		Addr:           ip +":"+ port,
 		Handler:        route,
 		ReadTimeout:    10 * time.Second,
 		WriteTimeout:   10 * time.Second,

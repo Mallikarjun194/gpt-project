@@ -3,6 +3,7 @@ package router
 import (
 	"encoding/json"
 	"fmt"
+	cors "github.com/rs/cors/wrapper/gin"
 	"gpt-project/constants"
 	"gpt-project/controller"
 	"io/ioutil"
@@ -14,9 +15,11 @@ import (
 func SetupRouter() *gin.Engine {
 	gin.SetMode(gin.ReleaseMode)
 	r := gin.Default()
-	r.Use(corsMiddleware())
+	//r.Use(corsMiddleware())
+	r.Use(cors.AllowAll())
 
 	addRoute(r)
+
 	return r
 }
 

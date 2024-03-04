@@ -11,6 +11,7 @@ import (
 func main() {
 	//fmt.Println("Starting a service!!!!")
 	route := router.SetupRouter()
+	
 	port := os.Getenv("PORT")
 	ip := os.Getenv("IP")
 	if ip == ""{
@@ -21,6 +22,7 @@ func main() {
 		port = "8080"
 	}
 	fmt.Println("Starting a service on port!!!!"+port)
+	route.Use(corsMiddleware())
 	s := &http.Server{
 		Addr:           ip +":"+ port,
 		Handler:        route,
@@ -32,6 +34,16 @@ func main() {
 	if err != nil {
 		fmt.Println("Failed to start a server!!!")
 		return
+	}
+}
+
+func corsMiddleware() gin.HandlerFunc {
+	return func(c *gin.Context) {
+		c.Writer.Header().Set("Access-Control-Allow-Origin", "*")
+		c.Writer.Header().Set("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE, OPTIONS")
+		c.Writer.Header().Set("Access-Control-Allow-Headers", "Content-Type, Authorization")
+
+		c.Next()
 	}
 }
 

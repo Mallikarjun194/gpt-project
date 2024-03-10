@@ -110,7 +110,7 @@
     ]
   },
   "show me some beauty products": {
-    "text": "Here are the beauty products you're looking for",
+    "text": "The beauty products which will best suit for you!!",
     "list":[
       {
         "id": "28c8a39d-4e9e-4c48-bd71-7cfeec13013c",
@@ -245,7 +245,7 @@
     ]
   },
   "show me some trending regular sleep wear": {
-    "text": "Here are the trending regular sleep wear you're looking for",
+    "text": "The famous regular sleep wear you're looking for",
     "list":[
       {
         "id": "e8e53490-2977-4175-9155-81b66807c854",
@@ -609,5 +609,421 @@
         "displayGenericDescription": false,
         "masterStyleId": "1124492500"
       }
-    ]}
+    ]},
+  "show me some bras": {
+    "text": "I can help you find your dream bra! Here you go!!",
+    "list": [{
+      "Invisible Lift Unlined Smooth Demi Bra": {
+        "id": "f6b5a9d0-c3c4-405c-b49d-0093d523be44",
+        "genericChoiceId": "11218442_33F6",
+        "url": "/us/vs/bras-catalog/5000009011?brand=\u0026collectionId=e88ab444-c093-4a29-a7c9-ef78f2a3e557\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=f6b5a9d0-c3c4-405c-b49d-0093d523be44\u0026stackId=6c96bbf1-4300-4f61-821d-4aa713379d24\u0026genericId=11218442\u0026choice=33F6",
+        "family": "Body by Victoria",
+        "name": "Invisible Lift Unlined Smooth Demi Bra",
+        "rating": 3.96,
+        "totalReviewCount": 56,
+        "genericLabel": "Smooth",
+        "productImages": [
+          "png/zz/24/01/22/23/1121844233F6_OM_F"
+        ],
+        "offerCallout": [
+          "$5 Panty with a Bra Purchase."
+        ],
+        "swatchCount": 10,
+        "swatchLabel": "",
+        "itemLevelCallout": [
+          "Available in cups B-G"
+        ],
+        "price": "$44.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "New! Invisible Lift Unlined Smooth Demi Bra",
+        "hideOnMobile": false,
+        "displayGenericDescription": true,
+        "masterStyleId": "5000009011"
+      },
+      "Lightly Lined Full-Coverage Smooth Bra": {
+        "id": "bb0ab2a7-193a-4254-8e46-543bb126cc58",
+        "genericChoiceId": "11237443_2B8H",
+        "url": "/us/vs/bras-catalog/5000000002?brand=\u0026collectionId=e88ab444-c093-4a29-a7c9-ef78f2a3e557\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=bb0ab2a7-193a-4254-8e46-543bb126cc58\u0026stackId=6c96bbf1-4300-4f61-821d-4aa713379d24\u0026genericId=11237443\u0026choice=2B8H",
+        "family": "Body by Victoria",
+        "name": "Lightly Lined Full-Coverage Smooth Bra",
+        "rating": 4.37,
+        "totalReviewCount": 1966,
+        "genericLabel": "Smooth",
+        "productImages": [
+          "png/zz/23/11/14/23/112374432B8H_OM_F",
+          "png/zz/23/11/14/23/112374432B8H_OM_B"
+        ],
+        "offerCallout": [
+          "$5 Panty with a Bra Purchase."
+        ],
+        "swatchCount": 20,
+        "swatchLabel": "",
+        "itemLevelCallout": [
+          "Available in cups B-G"
+        ],
+        "price": "$49.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "New! Lightly Lined Full-Coverage Smooth Bra",
+        "displayGenericDescription": true,
+        "masterStyleId": "5000000002"
+      },
+      "Lightly Lined Pointelle Wireless Bra":  {
+        "id": "be805a11-5d3d-49f7-9aea-df1ac7502623",
+        "genericChoiceId": "11235667_95D1",
+        "url": "/us/vs/bras-catalog/5000005702?brand=\u0026collectionId=0eae0ab5-7127-4fa1-b34c-bedaeb174bd2\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=be805a11-5d3d-49f7-9aea-df1ac7502623\u0026stackId=94bf3cf8-0656-4122-a919-6604dee76ce0\u0026genericId=11235667\u0026choice=95D1",
+        "family": "The T-shirt",
+        "name": "Lightly Lined Pointelle Wireless Bra",
+        "rating": 4.07,
+        "totalReviewCount": 1574,
+        "genericLabel": "Smooth",
+        "productImages": [
+          "png/zz/24/01/21/03/1123566795D1_OM_F",
+          "png/zz/24/01/21/03/1123566795D1_OM_B"
+        ],
+        "offerCallout": [
+          "$5 Panty with a Bra Purchase."
+        ],
+        "swatchCount": 20,
+        "swatchLabel": "",
+        "itemLevelCallout": [
+          "Available in cups A-G"
+        ],
+        "price": "$39.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": true,
+        "masterStyleId": "5000005702"
+      },
+      "Push-Up Wireless Lace Bra Top":  {
+        "id": "cada7036-1845-4875-8776-5e7621b6ce09",
+        "genericChoiceId": "11237710_34Y5",
+        "url": "/us/vs/bras-catalog/1123771000?brand=\u0026collectionId=0eae0ab5-7127-4fa1-b34c-bedaeb174bd2\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=cada7036-1845-4875-8776-5e7621b6ce09\u0026stackId=94bf3cf8-0656-4122-a919-6604dee76ce0\u0026genericId=11237710\u0026choice=34Y5",
+        "family": "Victoria's Secret",
+        "name": "Push-Up Wireless Lace Bra Top",
+        "rating": 0,
+        "totalReviewCount": 0,
+        "genericLabel": "Lace",
+        "productImages": [
+          "png/zz/24/01/22/23/1123771034Y5_OM_F",
+          "png/zz/24/01/22/23/1123771034Y5_OM_B"
+        ],
+        "offerCallout": [
+          "$5 Panty with a Bra Purchase."
+        ],
+        "swatchCount": 2,
+        "swatchLabel": "",
+        "itemLevelCallout": [
+          "Available in cups A-DDD"
+        ],
+        "price": "$39.95",
+        "altPrices": null,
+        "salePrice": "$29.50",
+        "collectionShortDescription": "",
+        "displayGenericDescription": true,
+        "badges": [
+          {
+            "type": "text",
+            "location": "both",
+            "text": "Online Exclusive"
+          }
+        ],
+        "masterStyleId": "1123771000"
+      }
+    }]
+  },
+  "show me some lingerie": {
+    "text": "Here we have a perfect lingerie",
+    "list": [{
+      "Wicked Unlined Lace Teddy":  {
+        "id": "292a0b06-a03a-4819-9603-8a7ac9d08a06",
+        "genericChoiceId": "11240760_2PYG",
+        "url": "/us/vs/sleepwear-and-lingerie-catalog/5000006548?brand=\u0026collectionId=9f1251d2-73ed-4294-a159-d3fbcdbd7577\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=292a0b06-a03a-4819-9603-8a7ac9d08a06\u0026stackId=be144c7b-bb75-4050-bdb7-6eff86b0e411\u0026genericId=11240760\u0026choice=2PYG",
+        "family": "Very Sexy",
+        "name": "Wicked Unlined Lace Teddy",
+        "rating": 4.57,
+        "totalReviewCount": 192,
+        "productImages": [
+          "png/zz/23/10/19/20/112407602PYG_OM_F",
+          "png/zz/23/10/19/20/112407602PYG_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 3,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$79.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": true,
+        "masterStyleId": "5000006548"
+      },
+      "VS Archives Silk Corset Set": {
+        "id": "eaff9080-77b1-4543-bb7a-5123f926e586",
+        "genericChoiceId": "11239121_4YQY",
+        "url": "/us/vs/sleepwear-and-lingerie-catalog/1123912100?brand=\u0026collectionId=9f1251d2-73ed-4294-a159-d3fbcdbd7577\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=eaff9080-77b1-4543-bb7a-5123f926e586\u0026stackId=be144c7b-bb75-4050-bdb7-6eff86b0e411\u0026genericId=11239121\u0026choice=4YQY",
+        "family": "Very Sexy",
+        "name": "VS Archives Silk Corset Set",
+        "rating": 4.67,
+        "totalReviewCount": 6,
+        "productImages": [
+          "png/zz/24/02/02/01/112391214YQY_OM_F",
+          "png/zz/24/02/02/01/112391214YQY_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 6,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$99.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": true,
+        "masterStyleId": "1123912100"
+      },
+      "Modal Lace-Trim Robe": {
+        "id": "2b10dc7a-3f36-4b70-bc3c-e47ef34403ac",
+        "genericChoiceId": "11237022_68OM",
+        "url": "/us/vs/sleepwear-and-lingerie-catalog/5000009123?brand=\u0026collectionId=9f1251d2-73ed-4294-a159-d3fbcdbd7577\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=2b10dc7a-3f36-4b70-bc3c-e47ef34403ac\u0026stackId=be144c7b-bb75-4050-bdb7-6eff86b0e411\u0026genericId=11237022\u0026choice=68OM",
+        "family": "Victoria's Secret",
+        "name": "Modal Lace-Trim Robe",
+        "rating": 4.67,
+        "totalReviewCount": 157,
+        "productImages": [
+          "png/zz/23/12/02/02/1123702268OM_OM_F",
+          "png/zz/23/12/02/02/1123702268OM_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 3,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$59.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": true,
+        "masterStyleId": "5000009123"
+      },
+      "Peekaboo Mesh Open-Cup Babydoll Set":{
+        "id": "0bedf168-4fa2-48ed-89b3-64bbd081a653",
+        "genericChoiceId": "11240754_2PYG",
+        "url": "/us/vs/sleepwear-and-lingerie-catalog/1124075400?brand=\u0026collectionId=9f1251d2-73ed-4294-a159-d3fbcdbd7577\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=0bedf168-4fa2-48ed-89b3-64bbd081a653\u0026stackId=be144c7b-bb75-4050-bdb7-6eff86b0e411\u0026genericId=11240754\u0026choice=2PYG",
+        "family": "Very Sexy",
+        "name": "Peekaboo Mesh Open-Cup Babydoll Set",
+        "rating": 4.09,
+        "totalReviewCount": 11,
+        "productImages": [
+          "png/zz/23/12/08/23/112407542PYG_OM_F",
+          "png/zz/23/12/08/23/112407542PYG_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 2,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$69.95",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": true,
+        "masterStyleId": "1124075400"
+      }
+    }]
+  },
+  "show me some panties":{
+    "text":"The panties you're looking for",
+    "list":[{
+    "Smoothing Shimmer Brief Panty":  {
+      "id": "79697fe7-8575-43ea-9f1a-fc6e3e0364be",
+      "genericChoiceId": "11242589_2B8H",
+      "url": "/us/vs/panties-catalog/5000009537?brand=\u0026collectionId=4f5166bf-2b49-4fa1-a963-25b8617129ad\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=79697fe7-8575-43ea-9f1a-fc6e3e0364be\u0026stackId=21a8e3b0-2ecc-4d0f-978b-c8dc2d113637\u0026genericId=11242589\u0026choice=2B8H",
+      "family": "Body by Victoria",
+      "isNew": false,
+      "name": "Smoothing Shimmer Brief Panty",
+      "rating": 3.56,
+      "totalReviewCount": 25,
+      "genericLabel": "Smooth",
+      "productImages": [
+        "png/zz/23/11/03/04/112425892B8H_OM_F",
+        "png/zz/23/11/03/04/112425892B8H_OM_B"
+      ],
+      "offerCallout": [
+        "$5 Panty with a Bra Purchase."
+      ],
+      "swatchCount": 9,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$24.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "5000009537"
+    },
+    "Stretch Cotton Bikini Panty":  {
+      "id": "9514efa2-4a5c-46f2-8aa3-8d61b7184fb3",
+      "genericChoiceId": "11214897_6BZ6",
+      "url": "/us/vs/panties-catalog/5000000008?brand=\u0026collectionId=4f5166bf-2b49-4fa1-a963-25b8617129ad\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=9514efa2-4a5c-46f2-8aa3-8d61b7184fb3\u0026stackId=21a8e3b0-2ecc-4d0f-978b-c8dc2d113637\u0026genericId=11214897\u0026choice=6BZ6",
+      "family": "Victoria's Secret",
+      "name": "Stretch Cotton Bikini Panty",
+      "rating": 4.54,
+      "totalReviewCount": 1422,
+      "genericLabel": "Classic",
+      "productImages": [
+        "png/zz/24/02/10/00/112148976BZ6_OF_F"
+      ],
+      "offerCallout": [
+        "$5 Panty with a Bra Purchase."
+      ],
+      "swatchCount": 34,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$10.50",
+      "altPrices": [
+        "any 5/$30"
+      ],
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "5000000008"
+    },
+    "Icon by Victoria's Secret Icon Lace Cheeky Panty": {
+      "id": "62a2339e-b025-46fe-b8be-7379b1e72475",
+      "genericChoiceId": "11227512_20M3",
+      "url": "/us/vs/panties-catalog/5000000018?brand=\u0026collectionId=4f5166bf-2b49-4fa1-a963-25b8617129ad\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=62a2339e-b025-46fe-b8be-7379b1e72475\u0026stackId=21a8e3b0-2ecc-4d0f-978b-c8dc2d113637\u0026genericId=11227512\u0026choice=20M3",
+      "family": "Very Sexy",
+      "name": "Icon by Victoria's Secret Icon Lace Cheeky Panty",
+      "rating": 4.66,
+      "totalReviewCount": 790,
+      "genericLabel": "Icon",
+      "productImages": [
+        "png/zz/24/01/12/01/1122751220M3_OM_F",
+        "png/zz/24/01/12/01/1122751220M3_OM_B"
+      ],
+      "offerCallout": [
+        "$5 Panty with a Bra Purchase."
+      ],
+      "swatchCount": 34,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$18.95",
+      "altPrices": null,
+      "salePrice": "$10.00",
+      "collectionShortDescription": "",
+      "hideOnMobile": false,
+      "displayGenericDescription": false,
+      "masterStyleId": "5000000018"
+    },
+    "Hiphugger Panty":  {
+      "id": "bf25f373-1b49-49c7-ab45-251aebe8a08e",
+      "genericChoiceId": "11199785_48PF",
+      "url": "/us/vs/panties-catalog/5000008501?brand=\u0026collectionId=4f5166bf-2b49-4fa1-a963-25b8617129ad\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=bf25f373-1b49-49c7-ab45-251aebe8a08e\u0026stackId=21a8e3b0-2ecc-4d0f-978b-c8dc2d113637\u0026genericId=11199785\u0026choice=48PF",
+      "family": "Love Cloud",
+      "name": "Hiphugger Panty",
+      "rating": 4.73,
+      "totalReviewCount": 207,
+      "genericLabel": "Smooth",
+      "productImages": [
+        "png/zz/24/02/18/23/1119978548PF_OM_F",
+        "png/zz/24/02/18/23/1119978548PF_OM_B"
+      ],
+      "offerCallout": [
+        "$5 Panty with a Bra Purchase."
+      ],
+      "swatchCount": 12,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$16.95",
+      "altPrices": [
+        "any 3/$39"
+      ],
+      "salePrice": "",
+      "collectionShortDescription": "",
+      "displayGenericDescription": false,
+      "masterStyleId": "5000008501"
+    }
+  }]},
+  "show me some swim suits": {
+    "text": "swim/beach suits which will look fabulous ",
+    "list":[{
+    "The Harlow Push-Up One-Piece Swimsuit":   {
+      "id": "4260085e-e00b-42cd-996f-ccf6d336c15e",
+      "genericChoiceId": "11240136_20M3",
+      "url": "/us/vs/swimwear-catalog/5000008922?brand=\u0026collectionId=a80df312-87f7-4af2-b108-400f6dd62b7e\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=4260085e-e00b-42cd-996f-ccf6d336c15e\u0026stackId=23f5fa7e-9208-4191-bc89-dec809d733f7\u0026genericId=11240136\u0026choice=20M3",
+      "family": "Victoria's Secret Swim",
+      "name": "The Harlow Push-Up One-Piece Swimsuit",
+      "rating": 4.15,
+      "totalReviewCount": 68,
+      "productImages": [
+        "png/zz/23/12/28/02/1124013620M3_OM_F",
+        "png/zz/23/12/28/02/1124013620M3_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 4,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$69.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": " The Harlow Push-Up One-Piece Swimsuit",
+      "displayGenericDescription": true,
+      "masterStyleId": "5000008922"
+    },
+    "Twist-Front Removable Push-Up One-Piece Swimsuit": {
+      "id": "83ca5252-70e8-4246-aff9-ddc86791c7c2",
+      "genericChoiceId": "11240134_68NQ",
+      "url": "/us/vs/swimwear-catalog/5000009624?brand=\u0026collectionId=a80df312-87f7-4af2-b108-400f6dd62b7e\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=83ca5252-70e8-4246-aff9-ddc86791c7c2\u0026stackId=23f5fa7e-9208-4191-bc89-dec809d733f7\u0026genericId=11240134\u0026choice=68NQ",
+      "family": "Victoria's Secret Swim",
+      "name": "Twist-Front Removable Push-Up One-Piece Swimsuit",
+      "rating": 5,
+      "totalReviewCount": 1,
+      "genericLabel": "Smooth",
+      "productImages": [
+        "png/zz/23/12/02/02/1124013468NQ_OM_F",
+        "png/zz/23/12/02/02/1124013468NQ_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 4,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$59.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": " Twist-Front Removable Push-Up One-Piece Swimsuit",
+      "displayGenericDescription": true,
+      "masterStyleId": "5000009624"
+    },
+    "Shimmer Cut-Out Bandeau One-Piece Swimsuit": {
+      "id": "af9ea2c0-f2cb-4f9c-9c24-14651dd00981",
+      "genericChoiceId": "11236118_63HK",
+      "url": "/us/vs/swimwear-catalog/1123611800?brand=\u0026collectionId=a80df312-87f7-4af2-b108-400f6dd62b7e\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=af9ea2c0-f2cb-4f9c-9c24-14651dd00981\u0026stackId=23f5fa7e-9208-4191-bc89-dec809d733f7\u0026genericId=11236118\u0026choice=63HK",
+      "family": "Victoria's Secret Swim",
+      "name": "Shimmer Cut-Out Bandeau One-Piece Swimsuit",
+      "rating": 4.67,
+      "totalReviewCount": 3,
+      "productImages": [
+        "png/zz/23/12/28/02/1123611863HK_OM_F",
+        "png/zz/23/12/28/02/1123611863HK_OM_B"
+      ],
+      "offerCallout": null,
+      "swatchCount": 2,
+      "swatchLabel": "",
+      "itemLevelCallout": null,
+      "price": "$69.95",
+      "altPrices": null,
+      "salePrice": "",
+      "collectionShortDescription": "Shimmer Cut-Out Bandeau One-Piece Swimsuit",
+      "hideOnMobile": false,
+      "displayGenericDescription": true,
+      "masterStyleId": "1123611800"
+    }
+  }]}
 }

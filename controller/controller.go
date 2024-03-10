@@ -51,14 +51,28 @@ func (s Service) SearchByText(c *gin.Context) {
 	// TODO call openAI
 
 	inputSlice := strings.Split(req[0], " ")
+	if strings.ToLower(inputSlice[0]) == "hello" || strings.ToLower(inputSlice[0]) == "hi" || strings.ToLower(inputSlice[0]) == "hey" {
+		m := model.Msg{
+			Msg: "Hello, How may I help you?" +
+				"Also visit https://www.victoriassecret.com to continue your shopping experience",
+		}
+		c.JSON(http.StatusOK, m)
+		return
+	}
 	reqString := checkInputSlice(inputSlice)
 
-	if v, ok := s.File[reqString]; ok {
+	v, ok := s.File[reqString]
+	if ok {
 		jsonArray, _ := json.Marshal(v)
 		json.Unmarshal(jsonArray, &res)
-		c.JSON(http.StatusCreated, res)
+		c.JSON(http.StatusOK, res)
+	} else {
+		m := model.Msg{
+			Msg: "Please modify your query, I couldn't understand!! " +
+				"Also visit https://www.victoriassecret.com to continue your shopping experience",
+		}
+		c.JSON(http.StatusOK, m)
 	}
-
 }
 
 func checkInputSlice(inputSlice []string) string {
@@ -74,6 +88,14 @@ func checkInputSlice(inputSlice []string) string {
 			res = "show me some comfortable sportswear for my regular performance activity"
 		} else if strings.ToLower(v) == "night" || strings.ToLower(v) == "nightwear" {
 			res = "suggest me some night wear for my girls night out"
+		} else if strings.ToLower(v) == "bra" || strings.ToLower(v) == "bras" {
+			res = "show me some bras"
+		} else if strings.ToLower(v) == "lingerie" {
+			res = "show me some lingerie"
+		} else if strings.ToLower(v) == "panties" || strings.ToLower(v) == "panty" {
+			res = "show me some panties"
+		} else if strings.ToLower(v) == "swim" || strings.ToLower(v) == "beach" {
+			res = "show me some swim suits"
 		}
 	}
 	return res

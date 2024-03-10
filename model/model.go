@@ -42,3 +42,7 @@ type Badge struct {
 }
 
 type BadgesResponse map[string]interface{}
+
+type Msg struct {
+	Msg string `json:"msg"`
+}

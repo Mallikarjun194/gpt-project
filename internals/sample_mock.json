@@ -110,7 +110,7 @@
     ]
   },
   "show me some beauty products": {
-    "text": "The beauty products which will best suit for you!!",
+    "text": "Certainly! Victoria's Secret offers a variety of perfumes with different scents to suit various preferences. Here are some popular options that you might consider gifting to your wife for her birthday. You can also visit a Victoria's Secret store to explore their full range of perfumes and choose the one that you think your wife will love the most. Don't forget to consider her personal style and preferences when making your selection.",
     "list":[
       {
         "id": "28c8a39d-4e9e-4c48-bd71-7cfeec13013c",
@@ -245,7 +245,7 @@
     ]
   },
   "show me some trending regular sleep wear": {
-    "text": "The famous regular sleep wear you're looking for",
+    "text": "Here are some options for comfortable sleepwear",
     "list":[
       {
         "id": "e8e53490-2977-4175-9155-81b66807c854",
@@ -507,7 +507,7 @@
     ]
   },
   "suggest me some night wear for my girls night out": {
-    "text": "Here are the some nightwear you're looking for",
+    "text": "Here are some options for comfortable night wear for night out!",
     "list":[
       {
         "id": "01448d89-3ecc-4639-84e9-c7395930c97d",
@@ -611,7 +611,7 @@
       }
     ]},
   "show me some bras": {
-    "text": "I can help you find your dream bra! Here you go!!",
+    "text": "Sure, Victoria's Secret offers a wide range of bra styles to cater to different needs and preferences. What specific needs do you have for the bra you're looking for? Let me know, and I can help you find options that might suit your requirements.",
     "list": [
       {
         "id": "f6b5a9d0-c3c4-405c-b49d-0093d523be44",
@@ -942,7 +942,7 @@
     }
   ]},
   "show me some swim suits": {
-    "text": "swim/beach suits which will look fabulous ",
+    "text": "Visiting Miami Beach in April can be quite pleasant, as the weather is typically warm and sunny. Here are some clothing suggestions to ensure you're comfortable and stylish during your trip",
     "list":[{
       "id": "4260085e-e00b-42cd-996f-ccf6d336c15e",
       "genericChoiceId": "11240136_20M3",
@@ -1014,5 +1014,121 @@
       "displayGenericDescription": true,
       "masterStyleId": "1123611800"
     }
-  ]}
+  ]},
+  "I'm looking for a bra but have specific needs": {
+    "text": "Sure, Victoria's Secret offers a wide range of bra styles to cater to different needs and preferences. What specific needs do you have for the bra you're looking for? Let me know, and I can help you find options that might suit your requirements."
+  },
+  "cancer survivor": {
+    "text": "For your specific needs, Victoria's Secret offers bras with soft fabrics and supportive designs that can be gentle on your skin while providing the necessary support. Here are a few options you might consider:",
+    "list": [
+      {
+        "id": "2b42536a-0d1f-4b88-894f-40df84f88bb8",
+        "genericChoiceId": "11205764_11T1",
+        "url": "/us/vs/bras-catalog/5000008455?brand=\u0026collectionId=daebd470-32a3-43fd-a914-e79466fde853\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=2b42536a-0d1f-4b88-894f-40df84f88bb8\u0026stackId=a3669156-8448-46f7-bfcc-c84f851261af\u0026genericId=11205764\u0026choice=11T1",
+        "family": "Body by Victoria",
+        "isNew": false,
+        "name": "Smooth Mastectomy Bra",
+        "rating": 3.9,
+        "totalReviewCount": 59,
+        "genericLabel": "Smooth",
+        "productImages": [
+          "png/zz/23/10/19/02/1120576411T1_OM_F",
+          "png/zz/23/10/19/02/1120576411T1_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 4,
+        "swatchLabel": "",
+        "itemLevelCallout": [
+          "Available in XS-XXL"
+        ],
+        "price": "$49.95",
+        "altPrices": null,
+        "displayGenericDescription": true,
+        "masterStyleId": "5000008455"
+      },
+      {
+        "id": "4a0513a8-b869-488a-89d7-1bcc05624d94",
+        "genericChoiceId": "11250540_54A2",
+        "url": "/us/vs/bras-catalog/1125054000?brand=\u0026collectionId=daebd470-32a3-43fd-a914-e79466fde853\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=4a0513a8-b869-488a-89d7-1bcc05624d94\u0026stackId=a3669156-8448-46f7-bfcc-c84f851261af\u0026genericId=11250540\u0026choice=54A2",
+        "family": "AnaOno",
+        "isNew": false,
+        "name": "Carrie Pocketed Molded-Cup Bra",
+        "rating": 0,
+        "totalReviewCount": 0,
+        "productImages": [
+          "png/zz/24/01/31/01/1125054054A2_OM_F",
+          "png/zz/24/01/31/01/1125054054A2_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 2,
+        "swatchLabel": "",
+        "price": "$59",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": false,
+        "masterStyleId": "1125054000"
+      },
+      {
+        "id": "7ce7e2cb-75ee-4e28-9b39-5d162568c80f",
+        "genericChoiceId": "11247704_54A2",
+        "url": "/us/vs/bras-catalog/1124770400?brand=\u0026collectionId=daebd470-32a3-43fd-a914-e79466fde853\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=7ce7e2cb-75ee-4e28-9b39-5d162568c80f\u0026stackId=a3669156-8448-46f7-bfcc-c84f851261af\u0026genericId=11247704\u0026choice=54A2",
+        "family": "AnaOno",
+        "isNew": false,
+        "name": "Rora Front Closure Bra",
+        "rating": 5,
+        "totalReviewCount": 2,
+        "productImages": [
+          "tif/zz/23/10/05/00/1124770454A2_OM_F",
+          "tif/zz/23/10/05/00/1124770454A2_OM_B"
+        ],
+        "offerCallout": null,
+        "swatchCount": 3,
+        "swatchLabel": "",
+        "isZeroAttribute": false,
+        "isNewSavings": false,
+        "isGiftCard": false,
+        "isEGiftCard": false,
+        "isClearance": false,
+        "itemLevelCallout": [
+          "Available in XS-XXXL"
+        ],
+        "price": "$59",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": true,
+        "masterStyleId": "1124770400"
+      },
+      {
+        "id": "13d4bcd3-6b89-4978-ae06-bcb30b582d8e",
+        "genericChoiceId": "11247708_54A2",
+        "url": "/us/vs/sleepwear-and-lingerie-catalog/1124770800?brand=\u0026collectionId=daebd470-32a3-43fd-a914-e79466fde853\u0026limit=180\u0026orderBy=REC\u0026priceType=regular\u0026productId=13d4bcd3-6b89-4978-ae06-bcb30b582d8e\u0026stackId=a3669156-8448-46f7-bfcc-c84f851261af\u0026genericId=11247708\u0026choice=54A2",
+        "family": "AnaOno",
+        "isNew": false,
+        "name": "Set of F(oo)b Breast Form Inserts",
+        "rating": 3,
+        "totalReviewCount": 2,
+        "productImages": [
+          "tif/zz/23/10/05/00/1124770854A2_OM_F"
+        ],
+        "offerCallout": null,
+        "swatchCount": 2,
+        "swatchLabel": "",
+        "itemLevelCallout": null,
+        "price": "$20",
+        "altPrices": null,
+        "salePrice": "",
+        "collectionShortDescription": "",
+        "hideOnMobile": false,
+        "displayGenericDescription": true,
+        "masterStyleId": "1124770800"
+      }
+    ]
+  },
+  "I will check it out, thanks for your help": {
+    "text": "You're welcome! If you have any more questions or need further assistance while shopping, feel free to ask. Wishing you all the best in finding the perfect bra that meets your needs. Take care!"
+  }
 }
